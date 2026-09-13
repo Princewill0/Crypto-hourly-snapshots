@@ -1,0 +1,39 @@
+name: Hourly Crypto Snapshot
+
+# Runs automatically at the top of every hour (UTC), and can also be
+# triggered manually from the GitHub "Actions" tab for testing.
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch: {}
+
+# Needed so this workflow is allowed to save (commit) the updated CSV
+# back into the repository.
+permissions:
+  contents: write
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests pandas
+
+      - name: Run hourly snapshot
+        run: python hourly_snapshot.py --universe universe.csv --out crypto_hourly_snapshots.csv
+
+      - name: Commit and push updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add crypto_hourly_snapshots.csv
+          git diff --staged --quiet || git commit -m "Hourly snapshot $(date -u +'%Y-%m-%dT%H:00:00Z')"
+          git push
