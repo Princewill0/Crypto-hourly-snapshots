@@ -1,0 +1,2501 @@
+asset_id,symbol,name,initial_rank
+bitcoin,btc,Bitcoin,1.0
+ethereum,eth,Ethereum,2.0
+tether,usdt,Tether,3.0
+binancecoin,bnb,BNB,4.0
+ripple,xrp,XRP,5.0
+usd-coin,usdc,USDC,6.0
+solana,sol,Solana,7.0
+tron,trx,TRON,8.0
+figure-heloc,figr_heloc,Figure Heloc,9.0
+zcash,zec,Zcash,9.0
+hyperliquid,hype,Hyperliquid,10.0
+dogecoin,doge,Dogecoin,11.0
+rain,rain,Rain,12.0
+monero,xmr,Monero,13.0
+usds,usds,USDS,14.0
+whitebit,wbt,WhiteBIT Coin,15.0
+chainlink,link,Chainlink,16.0
+leo-token,leo,LEO Token,17.0
+cardano,ada,Cardano,18.0
+stellar,xlm,Stellar,19.0
+ethena-usde,usde,Ethena USDe,20.0
+dai,dai,Dai,21.0
+bitcoin-cash,bch,Bitcoin Cash,22.0
+usd1-wlfi,usd1,USD1,23.0
+litecoin,ltc,Litecoin,24.0
+uniswap,uni,Uniswap,25.0
+canton-network,cc,Canton,26.0
+the-open-network,gram,Gram (prev. Toncoin),27.0
+hedera-hashgraph,hbar,Hedera,28.0
+global-dollar,usdg,Global Dollar,29.0
+avalanche-2,avax,Avalanche,30.0
+shiba-inu,shib,Shiba Inu,31.0
+near,near,NEAR Protocol,32.0
+sui,sui,Sui,33.0
+crypto-com-chain,cro,Cronos,34.0
+paypal-usd,pyusd,PayPal USD,35.0
+blackrock-usd-institutional-digital-liquidity-fund,buidl,BlackRock USD Institutional Digital Liquidity Fund,36.0
+tether-gold,xaut,Tether Gold,37.0
+memecore,m,MemeCore,38.0
+hashnote-usyc,usyc,Circle USYC,39.0
+ripple-usd,rlusd,Ripple USD,40.0
+okb,okb,OKB,41.0
+bittensor,tao,Bittensor,42.0
+ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,43.0
+aave,aave,Aave,44.0
+bitway,btw,Bitway,45.0
+aster-2,aster,Aster,46.0
+pax-gold,paxg,PAX Gold,47.0
+mantle,mnt,Mantle,48.0
+world-liberty-financial,wlfi,World Liberty Financial,49.0
+polkadot,dot,Polkadot,50.0
+ondo-finance,ondo,Ondo,51.0
+pump-fun,pump,Pump.fun,52.0
+internet-computer,icp,Internet Computer,53.0
+htx-dao,htx,HTX DAO,54.0
+usdd,usdd,USDD,55.0
+morpho,morpho,Morpho,56.0
+sky,sky,Sky,57.0
+pepe,pepe,Pepe,58.0
+ethena,ena,Ethena,59.0
+worldcoin-wld,wld,Worldcoin,60.0
+usdgo,usdgo,USDGO,61.0
+bitget-token,bgb,Bitget Token,62.0
+falcon-finance,usdf,Falcon USD,63.0
+spiko-amundi-overnight-swap-fund-eur,eursafo,Spiko Amundi Overnight Swap Fund (EUR),64.0
+bfusd,bfusd,BFUSD,65.0
+united-stables,u,United Stables,66.0
+ethereum-classic,etc,Ethereum Classic,67.0
+pi-network,pi,Pi Network,68.0
+lighter,lit,Lighter,69.0
+venice-token,vvv,Venice Token,70.0
+polygon-ecosystem-token,pol,POL (ex-MATIC),71.0
+gatechain-token,gt,Gate,72.0
+blockchain-capital,bcap,Blockchain Capital,73.0
+kaspa,kas,Kaspa,74.0
+kucoin-shares,kcs,KuCoin,75.0
+quant-network,qnt,Quant,76.0
+just,jst,JUST,77.0
+arbitrum,arb,Arbitrum,78.0
+algorand,algo,Algorand,79.0
+eutbl,eutbl,Spiko EU T-Bills Money Market Fund,80.0
+pancakeswap-token,cake,PancakeSwap,81.0
+cosmos,atom,Cosmos Hub,82.0
+nexo,nexo,NEXO,83.0
+filecoin,fil,Filecoin,84.0
+superstate-short-duration-us-government-securities-fund-ustb,ustb,Invesco Short Duration US Government Securities Fund,85.0
+jupiter-exchange-solana,jup,Jupiter,86.0
+stable-2,stable,​​Stable,87.0
+render-token,render,Render,88.0
+janus-henderson-anemoy-treasury-fund,jtrsy,Janus Henderson Anemoy Treasury Fund,89.0
+janus-henderson-anemoy-aaa-clo-fund,jaaa,Janus Henderson Anemoy AAA CLO Fund,90.0
+dash,dash,Dash,91.0
+gho,gho,GHO,92.0
+vechain,vet,VeChain,93.0
+ether-fi,ethfi,Ether.fi,94.0
+injective-protocol,inj,Injective,95.0
+beldex,bdx,Beldex,96.0
+aerodrome-finance,aero,Aerodrome Finance,97.0
+flare-networks,flr,Flare,98.0
+xdce-crowd-sale,xdc,XDC Network,99.0
+curve-dao-token,crv,Curve DAO,100.0
+usual-usd,usd0,Usual USD,101.0
+official-trump,trump,Official Trump,102.0
+aptos,apt,Aptos,103.0
+ylds,ylds,YLDS,104.0
+blockstack,stx,Stacks,105.0
+true-usd,tusd,TrueUSD,106.0
+usdtb,usdtb,USDtb,107.0
+bianrensheng,币安人生,币安人生 (BinanceLife),108.0
+euro-coin,eurc,EURC,109.0
+spx6900,spx,SPX6900,110.0
+hash-2,hash,Provenance Blockchain,111.0
+pudgy-penguins,pengu,Pudgy Penguins,112.0
+a7a5,a7a5,A7A5,113.0
+pyth-network,pyth,Pyth Network,114.0
+falcon-finance-ff,ff,Falcon Finance,115.0
+virtual-protocol,virtual,Virtuals Protocol,116.0
+pons,pons,Pons,117.0
+raydium,ray,Raydium,118.0
+fetch-ai,fet,Artificial Superintelligence Alliance,119.0
+pendle,pendle,Pendle,120.0
+layerzero,zro,LayerZero,121.0
+bitcoin-cash-sv,bsv,Bitcoin SV,122.0
+unibase,ub,Unibase,123.0
+celestia,tia,Celestia,124.0
+akedo,ake,Akedo,125.0
+ousg,ousg,Ondo Short-Term U.S. Government Bond Fund,126.0
+midnight-3,night,Midnight,127.0
+kinesis-gold,kau,Kinesis Gold,128.0
+pieverse,pieverse,Pieverse,129.0
+first-digital-usd,fdusd,First Digital USD,130.0
+bittorrent,btt,BitTorrent,131.0
+sun-token,sun,Sun Token,132.0
+apxusd,apxusd,apxUSD,133.0
+sofiusd,sofid,SoFiUSD,134.0
+tezos,xtz,Tezos,135.0
+lido-dao,ldo,Lido DAO,136.0
+gnosis,gno,Gnosis,137.0
+sei-network,sei,Sei,138.0
+olympus,ohm,Olympus,139.0
+usdai,usdai,USDai,140.0
+decred,dcr,Decred,141.0
+terra-luna,lunc,Terra Luna Classic,142.0
+monad,mon,Monad,143.0
+artificial-inu-3,ai,Artificial Inu,144.0
+ape-and-pepe,apepe,Ape and Pepe,145.0
+re-protocol-reusd,reusd,Re Protocol reUSD,146.0
+kite-2,kite,Kite,147.0
+conflux-token,cfx,Conflux,148.0
+reallink,real,RealLink,149.0
+syrup,syrup,Maple Finance,150.0
+agora-dollar,ausd,AUSD,151.0
+bonk,bonk,Bonk,152.0
+kinesis-silver,kag,Kinesis Silver,153.0
+ethereum-name-service,ens,Ethereum Name Service,154.0
+floki,floki,FLOKI,155.0
+lisk,lsk,Lisk,156.0
+usx,usx,USX,157.0
+bnb48-club-token,koge,KOGE,158.0
+apenft,nft,AINFT,159.0
+trust-wallet-token,twt,Trust Wallet,160.0
+optimism,op,Optimism,161.0
+useless-3,useless,Useless Coin,162.0
+jito-governance-token,jto,Jito,163.0
+plasma,xpl,Plasma,164.0
+grass,grass,Grass,165.0
+frax,frax,Legacy Frax Dollar,166.0
+edgex,edge,edgeX,167.0
+build-on,b,BUILDon,168.0
+stonk-3,stonk,STONK,169.0
+starknet,strk,Starknet,170.0
+the-graph,grt,The Graph,171.0
+theta-token,theta,Theta Network,172.0
+tradable-na-rent-financing-platform-sstn,pc0000031,Tradable NA Rent Financing Platform SSTN,173.0
+crvusd,crvusd,crvUSD,174.0
+ribbita-by-virtuals,tibbir,Ribbita by Virtuals,175.0
+grx-chain,grx,GRX Chain,176.0
+compound-governance-token,comp,Compound,177.0
+convex-finance,cvx,Convex Finance,178.0
+jasmycoin,jasmy,JasmyCoin,179.0
+kaia,kaia,Kaia,180.0
+iota,iota,IOTA,181.0
+dogwifcoin,wif,dogwifhat,182.0
+eigenlayer,eigen,EigenCloud (prev. EigenLayer),183.0
+societe-generale-forge-eurcv,eurcv,EUR CoinVertible,184.0
+arweave,ar,Arweave,185.0
+usa,usat,USAT,186.0
+apyusd,apyusd,apyUSD,187.0
+zebec-network,zbcn,Zebec Network,188.0
+non-playable-coin,npc,Non-Playable Coin,189.0
+spiko-us-t-bills-money-market-fund,ustbl,Spiko US T-Bills Money Market Fund,190.0
+humanity,h,Humanity,191.0
+cash-cat,cashcat,Cash Cat,192.0
+thorchain,rune,THORChain,193.0
+ultima,ultima,Ultima,194.0
+safo,safo,Spiko Amundi Overnight Swap Fund,195.0
+coco-2,coco,coco,196.0
+axie-infinity,axs,Axie Infinity,197.0
+antfun,antfun,AntFun,198.0
+swissborg,borg,SwissBorg,199.0
+doublezero,2z,DoubleZero,200.0
+btse-token,btse,BTSE Token,201.0
+akash-network,akt,Akash Network,202.0
+tradable-apac-diversified-finance-provider-sstn,pc0000033,Tradable APAC Diversified Finance Provider SSTN,203.0
+mx-token,mx,MX,204.0
+neo,neo,NEO,205.0
+chain-2,xcn,Onyxcoin,206.0
+ecash,xec,eCash,207.0
+telcoin,tel,Telcoin,208.0
+chiliz,chz,Chiliz,209.0
+vision-3,vsn,Vision,210.0
+strategy-pp-variable-xstock,strcx,Strategy PP Variable xStock,211.0
+gusd,gusd,GUSD,212.0
+decentraland,mana,Decentraland,213.0
+shuffle-2,shfl,Shuffle,214.0
+derive,drv,Derive,215.0
+origintrail,trac,OriginTrail,216.0
+gmt-token,gomining,GoMining Token,217.0
+lobster-2,龙虾,龙虾 (Lobster),218.0
+fartcoin,fartcoin,Fartcoin,219.0
+safepal,sfp,SafePal,220.0
+kamino,kmno,Kamino,221.0
+vaulta,a,Vaulta,222.0
+apecoin,ape,ApeCoin,223.0
+tradable-latam-fintech-sstn,pc0000097,Tradable LatAm Fintech SSTN,224.0
+elrond-erd-2,egld,MultiversX,225.0
+jpysc,jpysc,JPYSC,226.0
+1inch,1inch,1INCH,227.0
+pearl-2,prl,Pearl,228.0
+avant-usd,avusd,Avant USD,229.0
+seeker,skr,Seeker,230.0
+mina-protocol,mina,Mina Protocol,231.0
+rollbit-coin,rlb,Rollbit Coin,232.0
+meteora,met,Meteora,233.0
+cash-4,cash,CASH,234.0
+havven,snx,Synthetix,235.0
+collector-crypt,cards,Collector Crypt,236.0
+ozone-chain,ozo,Ozone Chain,237.0
+backpack,bp,Backpack,238.0
+niu-lai,牛来,牛来 (Niu Lai),239.0
+zama,zama,Zama,240.0
+railgun,rail,Railgun,241.0
+unifai-network,uai,UnifAI Network,242.0
+bc-token,bc,BCGame Coin,243.0
+basic-attention-token,bat,Basic Attention,244.0
+theo-short-duration-us-treasury-fund,thbill,Theo Short Duration US Treasury Fund,244.0
+zencash,zen,Horizen,245.0
+stp-network,awe,AWE Network,246.0
+nockchain,nock,Nockchain,247.0
+golem,glm,Golem,248.0
+astherus-usdf,usdf,Aster USDF,249.0
+tradable-singapore-fintech-ssl-2,pc0000023,Tradable Singapore Fintech SSL,
+alpha-bulgaria-warrants,alfw,Alpha Bulgaria Warrants,250.0
+dgrid-ai,dgai,DGrid AI,251.0
+meta-2-2,meta,MetaDAO,252.0
+quack-ai,q,Quack AI,253.0
+immutable-x,imx,Immutable,254.0
+circle-internet-group-ondo-tokenized-stock,crclon,Circle Internet Group (Ondo Tokenized Stock),255.0
+nxm,nxm,Nexus Mutual,256.0
+celium,sn51,lium,257.0
+tradable-na-third-party-online-merchant-sstn,pc0000015,Tradable NA Third Party Online Merchant SSTN,258.0
+the-sandbox,sand,The Sandbox,259.0
+onyc,onyc,OnRe Tokenized Reinsurance,260.0
+prometeus,prom,Prom,261.0
+frax-usd,frxusd,Frax USD,262.0
+dog-go-to-the-moon-rune,dog,Dog (Bitcoin),263.0
+cheems-token,cheems,Cheems Token,264.0
+sonic-3,s,Sonic,265.0
+sentient,sent,Sentient,266.0
+securitize-tokenized-aaa-clo-fund,stac,Securitize Tokenized AAA CLO Fund,267.0
+marscoin-4,marscoin,MarsCoin,268.0
+qtum,qtum,Qtum,269.0
+melania-meme,melania,Melania Meme,270.0
+sosovalue,soso,SoSoValue,271.0
+genius-3,genius,Genius,272.0
+zksync,zk,ZKsync,273.0
+tradable-latam-middle-market-lender-sstl,pc0000085,Tradable LatAm Middle-Market Lender SSTL,274.0
+geodnet,geod,Geodnet,275.0
+tradable-singapore-fintech-ssl,pc0000077,Tradable Singapore Fintech SSL,276.0
+nest-blackopal-liquidstone-ii-vault,nopal,Nest BlackOpal LiquidStone II Vault,277.0
+unity-usd,uusd,Unity USD,278.0
+zano,zano,Zano,279.0
+instadapp,fluid,Fluid,280.0
+chutes,sn64,Chutes,281.0
+bermuda-shorts,short,Bermuda Shorts,282.0
+dydx-chain,dydx,dYdX,283.0
+aethir,ath,Aethir,284.0
+apollo-diversified-credit-securitize-fund,acred,Apollo Diversified Credit Securitize Fund,285.0
+reserve-rights-token,rsr,Reserve Rights,286.0
+0x,zrx,0x Protocol,287.0
+usda-2,usda,USDa,260.0
+wemix-token,wemix,WEMIX,288.0
+aioz-network,aioz,AIOZ Network,289.0
+hunter-biden-s-laptop-3,laptop,Hunter Biden's Laptop,290.0
+four,form,Four,291.0
+anonymous-cat,zcat,Anonymous Cat,292.0
+circle-internet-group-bstock,crclb,Circle Internet Group (bStocks Tokenized Stock),293.0
+debridge,dbr,deBridge,294.0
+bitget-wrapped-btc,bgbtc,Bitget Wrapped BTC,295.0
+baby-claw,babyclaw,Baby Claw,
+bedrock-token,br,Bedrock,296.0
+helium,hnt,Helium,297.0
+yzy,yzy,YZY,298.0
+mag7-ssi,mag7.ssi,MAG7.ssi,299.0
+beam-2,beam,Beam,300.0
+chip-2,chip,USD.AI,301.0
+ordinals,ordi,ORDI,302.0
+gala,gala,GALA,303.0
+gas,gas,Gas,304.0
+pleasing-gold,pgold,Pleasing Gold,306.0
+cap-usd,cusd,Cap USD,305.0
+vethor-token,vtho,VeThor,306.0
+plume,plume,Plume,307.0
+f-x-protocol-fxusd,fxusd,f(x) Protocol fxUSD,308.0
+digibyte,dgb,DigiByte,309.0
+adi-token,adi,ADI,310.0
+o1-exchange,o,o1.exchange,311.0
+orca,orca,Orca,312.0
+gmx,gmx,GMX,313.0
+goldfish-gold,ggbr,Goldfish Gold,314.0
+wrappedm-by-m0,wm,WrappedM by M0,315.0
+bending-spoons-xstock,bspx,Bending Spoons xStock,316.0
+3jane-usd3,usd3,3Jane USD3,316.0
+rif-token,rif,Rootstock Infrastructure Framework,317.0
+usda-3,usda,USDA,318.0
+yearn-finance,yfi,yearn.finance,319.0
+cow-protocol,cow,CoW Protocol,320.0
+unitywallet-token,unt,UnityWallet Token,321.0
+targon,sn4,Targon,322.0
+fx-usd-saving,fxsave,f(x) USD Saving,323.0
+safe,safe,Safe,324.0
+bulla-3,bulla,BULLA,325.0
+na-post-settlement-legal-financing-receivables,pc0000101,Tradable NA Post-Settlement Legal Financing Receivables,326.0
+funfair,fun,FUNToken,327.0
+cygnus-finance-global-usd,cgusd,Cygnus Finance Global USD,328.0
+banana-for-scale-2,bananas31,Banana For Scale,329.0
+tradable-north-america-pos-lender-sstn,pc0000019,Tradable North America PoS Lender SSTN,330.0
+superfarm,super,SuperVerse,331.0
+theta-fuel,tfuel,Theta Fuel,332.0
+helio-protocol-hay,lisusd,Lista USD,333.0
+tradable-na-neobank-sstl,pc0000023,Tradable NA Neobank SSTL,334.0
+circle-xstock,crclx,Circle xStock,335.0
+velo,velo,Velo,336.0
+felix-feusd,feusd,Felix feUSD,337.0
+kusama,ksm,Kusama,338.0
+usdsui,usdsui,USDsui,339.0
+midas-mtbill,mtbill,Midas mTBILL,340.0
+proton,xpr,XPR Network,341.0
+kaito,kaito,KAITO,342.0
+cap-4,cap,Cap,343.0
+arkham,arkm,Arkham,344.0
+crown-brlv,brlv,Crown BRLV,345.0
+tagger,tag,TAGGER,346.0
+unitas,up,Unitas,347.0
+ondo-u-s-dollar-token,usdon,Ondo U.S. Dollar Token,348.0
+walrus-2,wal,Walrus,349.0
+pumpmeme,pm,PumpMeme,350.0
+newton-project,ab,AB,351.0
+microstrategy-xstock,mstrx,MicroStrategy xStock,352.0
+matrixdock-gold,xaum,Matrixdock Gold,353.0
+tesla-xstock,tslax,Tesla xStock,354.0
+dola-usd,dola,DOLA,355.0
+ai-rig-complex,arc,AI Rig Complex,356.0
+baby-doge-coin,babydoge,Baby Doge Coin,357.0
+livepeer,lpt,Livepeer,358.0
+stau,stau,STAU,359.0
+apes-2-2,apes,APES,362.0
+re,re,RE,360.0
+story-2,data,Data Network,361.0
+spacex-bstocks-tokenized-stock,spcxb,SpaceX (bStocks Tokenized Stock),362.0
+saturn-dollar,usdat,Saturn Dollar,363.0
+tori-trusd,trusd,Tori trUSD,364.0
+holotoken,hot,Holo,365.0
+kava,kava,Kava,366.0
+midas-fasanara-global,mglobal,Midas Fasanara Global,367.0
+redstone-oracles,red,RedStone,368.0
+comedian,ban,Comedian,369.0
+stronghold-token,shx,Stronghold,370.0
+numeraire,nmr,Numeraire,371.0
+nexpace,nxpc,Nexpace,372.0
+mindwavedao,nila,MindWaveDAO,373.0
+swop-2,swop,Swop,374.0
+wormhole,w,Wormhole,375.0
+purr-2,purr,Purr,376.0
+tradable-eu-latam-pos-financing-sstl,pc0000049,Tradable Eu/LatAm PoS Financing SSTL,377.0
+midas-mf-one,mf-one,Midas mF-ONE,378.0
+escoin-token,elg,Escoin,379.0
+berachain-bera,bera,Berachain,380.0
+linea,linea,Linea,381.0
+diem,diem,Diem,382.0
+metal-blockchain,metal,Metal Blockchain,383.0
+ishares-core-s-p-500-etf-ondo-tokenized-etf,ivvon,iShares Core S&P 500 ETF (Ondo Tokenized ETF),386.0
+teller,debit,Teller,384.0
+dexe,dexe,DeXe,385.0
+sushi,sushi,Sushi,386.0
+pharos-network,pros,Pharos,387.0
+turbo,turbo,Turbo,388.0
+exod,exod,EXOD,389.0
+spark-2,spk,Spark,390.0
+anvil,anvl,Anvil,391.0
+peaq-2,peaq,peaq,392.0
+soon-2,soon,SOON,393.0
+zignaly,zig,ZIGChain,394.0
+royal-euro,reur,Royal Euro,348.0
+espresso,esp,Espresso,395.0
+prize-protocol,prize,Prize Protocol,396.0
+temple,temple,TempleDAO,396.0
+midas-fasanara-global-open,mglo,Midas Fasanara Global Open,397.0
+nexus-4,nex,Nexus,398.0
+meme-horse,mhorse,MEME HORSE,399.0
+the-black-bull,ansem,The Black Bull,400.0
+goplus-security,gps,GoPlus Security,401.0
+bas,bas,BNB Attestation Service,402.0
+nervos-network,ckb,Nervos Network,403.0
+creditcoin-2,ctc,Creditcoin,404.0
+zetachain,zeta,ZetaChain,405.0
+sp500-xstock,spyx,SP500 xStock,406.0
+zilliqa,zil,Zilliqa,407.0
+book-of-meme,bome,BOOK OF MEME,408.0
+vaneck-treasury-fund,vbill,VanEck Treasury Fund,409.0
+cross-2,one,ONEchain,410.0
+noxo,noxo,NOXO,411.0
+jpycoin,jpyc,JPY Coin,412.0
+tradable-na-legal-receivables-ssl,pc0000081,Tradable NA Legal Receivables SSL,413.0
+kinetiq,kntq,Kinetiq,414.0
+oasis-network,rose,Oasis,415.0
+keeta,kta,Keeta,416.0
+ecomi,omi,ECOMI,417.0
+qubic-network,qubic,Qubic,418.0
+astar,astr,Astar,419.0
+babylon,baby,Babylon,420.0
+axelar,axl,Axelar,421.0
+chainopera-ai,coai,ChainOpera AI,422.0
+jelly-my-jelly,jellyjelly,Jelly-My-Jelly,423.0
+standx-dusd,dusd,StandX DUSD,424.0
+bio-protocol,bio,Bio Protocol,425.0
+allora,allo,Allora,426.0
+fonq,fonq,FONQ,427.0
+a-meme-coin,amc,A Meme Coin,428.0
+enjincoin,enj,Enjin Coin,429.0
+greenhood,hood,GreenHood,430.0
+pentagon-chain,pc,Pentagon Chain,431.0
+quantum-resistant-ledger,qrl,Quantum Resistant Ledger,432.0
+nusd-2,nusd,Neutrl USD,400.0
+ontology,ont,Ontology,433.0
+brz,brz,Brazilian Digital,434.0
+polymesh,polyx,Polymesh,435.0
+venus,xvs,Venus,436.0
+blur,blur,Blur,437.0
+flying-tulip,ft,Flying Tulip,438.0
+lab,lab,LAB,439.0
+io,io,io.net,440.0
+memetoon,meme,MEMETOON,430.0
+celo,celo,Celo,441.0
+precious-metals-usd,pmusd,Precious Metals USD,442.0
+anemoy-tokenized-apollo-diversified-credit-fund,acrdx,Anemoy Tokenized Apollo Diversified Credit Fund,443.0
+ai-companions,aic,AI Companions,444.0
+na-capital-as-a-service-sstn,pc0016245,NA Capital-as-a-Service SSTN,445.0
+rekt-4,rekt,Rekt,446.0
+ravedao,rave,RaveDAO,447.0
+blackrock-daily-reinvestment-stablecoin-reserve-vehicle,brsrv,BlackRock Daily Reinvestment Stablecoin Reserve Vehicle,448.0
+space-id,id,SPACE ID,449.0
+flow,flow,Flow,450.0
+alloy-tether,ausdt,Alloy Tether,451.0
+usdkg,usdkg,USDKG,452.0
+fidelity-digital-dollar,fidd,Fidelity Digital Dollar,453.0
+threshold-network-token,t,Threshold Network,454.0
+bim-2,bim,BIM,455.0
+holoworld,holo,Holoworld,456.0
+casper-network,cspr,Casper Network,457.0
+aelf,elf,aelf,458.0
+safecoin,safe,SAFEbit,459.0
+based-brett,brett,Brett,460.0
+toshi,toshi,Toshi,461.0
+skyai,skyai,SkyAI,462.0
+tellor,trb,Tellor Tributes,463.0
+magma-finance,magma,Magma Finance,464.0
+affine,sn120,affine,465.0
+coti,coti,COTI,466.0
+sygnum-fiusd-liquidity-fund,fiusd,Sygnum FIUSD Liquidity Fund,467.0
+gekko,gekko,GEKKO,468.0
+aria-chain,ariax,ARIA NETWORK,469.0
+allunity-chf,chfau,AllUnity CHF,470.0
+xyo-network,xyo,XYO Network,471.0
+strategy-tokenized-bstocks,mstrb,Strategy (bStocks Tokenized Stock),472.0
+troll-2,troll,TROLL,473.0
+mantis,m,Mantis,429.0
+ankr,ankr,Ankr Network,474.0
+ozapay,oza,Ozapay,474.0
+mask-network,mask,Mask Network,475.0
+tradable-latam-bnpl-sstn,pc0000027,Tradable LatAm BNPL SSTN,476.0
+score,sn44,Score,477.0
+jupusd,jupusd,JupUSD,478.0
+popcat,popcat,Popcat,479.0
+concordium,ccd,Concordium,480.0
+resupply-usd,reusd,Resupply USD,481.0
+altlayer,alt,AltLayer,482.0
+nano,xno,Nano,483.0
+peanut-the-squirrel,pnut,Peanut the Squirrel,484.0
+acurast,acu,Acurast,485.0
+acurast,acu,Acurast,486.0
+infinifi-usd,iusd,InfiniFi USD,487.0
+lombard-protocol,bard,Lombard,488.0
+fidelity-usd-digital-liquidity-fund-acc,filq-a,Fidelity USD Digital Liquidity Fund-Acc,489.0
+siacoin,sc,Siacoin,490.0
+verge,xvg,Verge,491.0
+spdr-s-p-500-etf-ondo-tokenized-etf,spyon,SPDR S&P 500 ETF (Ondo Tokenized ETF),492.0
+pirate-chain,arrr,Pirate Chain,493.0
+catizen,cati,Catizen,494.0
+matrix-6,mtx,Matrix,495.0
+spiko-amundi-overnight-swap-fund-gbp,gbpsafo,Spiko Amundi Overnight Swap Fund (GBP),496.0
+tori-ecosystem-vault,etrusd,Tori Ecosystem Vault,497.0
+ebtc-2,ebtc,eBTC,495.0
+dusk-network,dusk,DUSK,498.0
+notcoin,not,Notcoin,499.0
+reental,rnt,Rnt,500.0
+dappos,dos,DAPPOS,501.0
+sentismai,sentis,SentismAI,502.0
+zero-gravity,0g,0G,503.0
+talus,us,Talus,504.0
+renzo,rez,Renzo,505.0
+ai-xovia,aix,AI XOVIA,506.0
+ssv-network,ssv,SSV Network,507.0
+frankencoin,zchf,Frankencoin,508.0
+request-network,req,Request,509.0
+hydradx,hdx,Hydration,510.0
+edu-coin,edu,Open Campus,511.0
+ald,ald,ALD,512.0
+vvs-finance,vvs,VVS Finance,513.0
+blorb,blorb,BLORB,514.0
+bifrost,bfc,Bifrost,515.0
+ethgas-2,gwei,ETHGas,516.0
+asset,asset,REAL,517.0
+ronin,ron,Ronin,518.0
+ai-analysis-token,aiat,AI Analysis Token,519.0
+stader-sftmx,sftmx,BeethovenX sFTMX,520.0
+usdu,usdu,USDu,521.0
+subsquid,sqd,SQD,522.0
+bitkub-coin,kub,KUB Coin,523.0
+centrifuge-2,cfg,Centrifuge,524.0
+novachargex-coin,ncx,NovaChargeX Coin,525.0
+megaeth,mega,MegaETH,526.0
+straitsx-xusd,xusd,StraitsX XUSD,527.0
+magic-eden,me,Magic Eden,528.0
+aztec,aztec,Aztec,529.0
+baseline,b,Baseline,535.0
+america-party-5,america,America Party,530.0
+huma-finance,huma,Huma Finance,531.0
+wiki-cat,wkc,Wiki Cat,532.0
+osk,osk,OSK,533.0
+mog-coin,mog,Mog Coin,534.0
+spacex-xstocks,spcxx,SpaceX xStock,535.0
+mocaverse,moca,Moca Network,536.0
+constitutiondao,people,ConstitutionDAO,537.0
+project-galaxy,gal,GAL (migrated to Gravity - G),538.0
+apriori,apr,Capricorn,539.0
+rocket-pool,rpl,Rocket Pool,540.0
+amp-token,amp,Amp,541.0
+bitcastle-token,bce,bitcastle Token,542.0
+moo-deng,moodeng,Moo Deng,543.0
+gemini-dollar,gusd,Gemini Dollar,544.0
+templar,sn3,τemplar,545.0
+unipoly,unp,Unipoly,546.0
+chump-coin,chump,Chump Coin,547.0
+arcs,arx,ARCS,548.0
+wink,win,WINkLink,549.0
+space-and-time,sxt,Space and Time,550.0
+gohome,gohome,GOHOME,551.0
+nvidia-xstock,nvdax,NVIDIA xStock,552.0
+islamic-coin,islm,Islamic Coin,553.0
+eurite,euri,Eurite,554.0
+deep,deep,DeepBook,555.0
+ocean-protocol,ocean,Ocean Protocol,556.0
+micron-technology-ondo-tokenized-stock,muon,Micron Technology (Ondo Tokenized Stock),557.0
+atoshi,atos,Atoshi,558.0
+pay-coin,pci,Paycoin,559.0
+status,snt,Status,560.0
+ong,ong,Ontology Gas,561.0
+ravencoin,rvn,Ravencoin,562.0
+hermez-network-token,hez,Hermez Network,563.0
+latam-residential-sstl,pc0000089,Tradable LatAm Residential SSTL,
+nkyc-token,nkyc,NKYC Token,564.0
+metronome-synth-usd,msusd,Metronome Synth USD,565.0
+movement,move,Movement,566.0
+degen-base,degen,Degen,567.0
+civic,cvc,Civic,568.0
+efficientfrontier,sn53,EfficientFrontier,569.0
+jackpotter,$jpt,Jackpotter,570.0
+opcode,opcode,Opcode,570.0
+apex-token-2,apex,APEX,571.0
+snowbank,sb,Snowbank,572.0
+bitdca,bdca,BitDCA,573.0
+cat-in-a-dogs-world,mew,cat in a dogs world,574.0
+pathusd,pathusd,pathUSD,575.0
+fractal-bitcoin,fb,Fractal Bitcoin,576.0
+main-street-usd,msusd,Main Street USD,577.0
+noon-usn,usn,Noon USN,578.0
+zora,zora,Zora,579.0
+nasdaq-xstock,qqqx,Nasdaq xStock,580.0
+neiro-3,neiro,Neiro,581.0
+nvidia-ondo-tokenized-stock,nvdaon,NVIDIA (Ondo Tokenized Stock),582.0
+api3,api3,Api3,583.0
+mango-markets,mngo,Mango,584.0
+alphabet-xstock,googlx,Alphabet xStock,585.0
+xphere,xp,Xphere,586.0
+band-protocol,band,Band,587.0
+apro,at,Apro,588.0
+succinct,prove,Succinct,589.0
+folks,folks,FOLKS,590.0
+alchemist-ai,alch,Alchemist AI,591.0
+propy,pro,Propy,592.0
+moolah,moolah,Moolah,593.0
+power-ledger,powr,Powerledger,594.0
+memecoin-2,meme,Memecoin,595.0
+sai,sai,Sai,596.0
+avantis,avnt,Avantis,597.0
+aegis-yusd,yusd,Aegis YUSD,598.0
+emerald-security-token,emrl.d,Emerald Security Token,573.0
+steem,steem,Steem,599.0
+micron-technology-bstock,mub,Micron Technology (bStocks Tokenized Stock),600.0
+giggle-fund,giggle,Giggle Fund,601.0
+elexium,ex,Elexium,544.0
+yfsx,yfsx,YFSX,602.0
+changenow,now,ChangeNOW,603.0
+hashkey-ecopoints,hsk,HashKey Platform Token,604.0
+binance-usd,busd,BUSD,605.0
+liquity-bold-2,bold,BOLD,606.0
+would,would,would,607.0
+fins,fins,FINS,608.0
+staked-frax-usd,sfrxusd,Frax Staked frxUSD,608.0
+steakhouse-confidential-prime-usdc,steakcusdc,Steakhouse Confidential Prime USDC,609.0
+uma,uma,UMA,610.0
+palladium-network,plldv3,Palladium Network,611.0
+main-street-yield,msy,Main Street Yield,605.0
+proprietary-trading-network,sn8,Vanta Network,612.0
+mbg-by-multibank-group,mbg,MBG By Multibank Group,613.0
+playnance,gcoin,Playnance,614.0
+flock-2,flock,FLOCK,615.0
+storx,srx,StorX,616.0
+lista,lista,Lista DAO,617.0
+cofinex-2,cnx,Cofinex,618.0
+hakimi,哈基米,哈基米 (Hajimi),619.0
+orbs,orbs,Orbs,620.0
+securitize-corp,secz,Securitize,621.0
+boner-coin,boner,Boner Coin,622.0
+ston-2,ston,STON,623.0
+terra-luna-2,luna,Terra,624.0
+hive_dollar,hbd,Hive Dollar,625.0
+sahara-ai,sahara,Sahara AI,626.0
+snek,snek,Snek,627.0
+monerium-eur-money-2,eure,Monerium EUR emoney,628.0
+basedhype,basedhype,BasedHype,629.0
+cargox,cxo,CargoX,630.0
+peoples-reserve-network,prn,Peoples Reserve,631.0
+arcium,arx,Arcium,632.0
+ustbl-tokenized-u-s-treasury-bill,ustbl,USTBL,633.0
+lido-earnusd,earnusd,Lido EarnUSD,634.0
+embercurve,ember,embercurve,635.0
+spiko-digital-assets-cash-carry-fund-euro-share-class,eurspkcc,Spiko Digital Assets Cash & Carry Fund - Euro Share Class,636.0
+velodrome-finance,velo,Velodrome Finance,637.0
+xpin-network,xpin,XPIN Network,638.0
+brla-digital-brla,brla,BRLA Digital BRLA,639.0
+sandisk-bstocks-tokenized-stock,sndkb,SanDisk (bStocks Tokenized Stock),640.0
+momentum-3,mmt,Momentum,641.0
+dogelon-mars,elon,Dogelon Mars,642.0
+pipedog,pipedog,pipedog,643.0
+fidelity-digital-interest-token,fdit,Fidelity Digital Interest Token,644.0
+merlin-chain,merl,Merlin Chain,645.0
+billions-network,bill,Billions Network,646.0
+midas-mhyper,mhyper,Midas mHYPER,647.0
+zerebro,zerebro,Zerebro,648.0
+nirvana-ana-2,ana,Nirvana ANA,649.0
+invesco-qqq-etf-ondo-tokenized-etf,qqqon,Invesco QQQ ETF (Ondo Tokenized ETF),650.0
+bancor,bnt,Bancor Network,651.0
+euler,eul,Euler,652.0
+b3,b3,B3 (Base),653.0
+iota-2,sn9,iota,654.0
+ore,ore,ORE,655.0
+tcy,tcy,THORChain Yield,656.0
+tornado-cash,torn,Tornado Cash,657.0
+mass-vehicle-ledger,mvl,MVL,658.0
+iotex,iotx,IoTeX,659.0
+across-protocol,acx,Across Protocol,660.0
+universal-usd,usdu,Universal USD,644.0
+swarm-network,truth,Swarm Network,661.0
+backed-cspx-core-s-p-500,bcspx,Backed CSPX Core S&P 500,662.0
+dmt-nat,nat,DMT-NAT,663.0
+kgen,kgen,KGeN,664.0
+terrausd,ustc,TerraClassicUSD,665.0
+neet,neet,"Not in Employment, Education, or Training",666.0
+mezo-usd,musd,Mezo USD,667.0
+mubarak,mubarak,Mubarak,668.0
+burnedfi,burn,BurnedFi,669.0
+manta-network,manta,Manta Network,670.0
+kyber-network-crystal,knc,Kyber Network Crystal,671.0
+vana,vana,Vana,672.0
+manadia,umxm,Manadia,673.0
+bora,bora,BORA,674.0
+audiera,beat,Audiera,675.0
+spacecoin-2,space,Spacecoin,676.0
+illuvium,ilv,Illuvium,677.0
+deapcoin,dep,DEAPCOIN,678.0
+alphabet-bstocks-tokenized-stock,googlb,Alphabet (bStocks Tokenized Stock),679.0
+solv-protocol,solv,Solv Protocol,680.0
+hims-hers-health-ondo-tokenized-stock,himson,Hims & Hers Health (Ondo Tokenized Stock),681.0
+apex-4,ap3x,APEX,682.0
+openledger-2,open,OpenLedger,683.0
+coindepo,coindepo,COINDEPO,684.0
+the-index,index,The Index,685.0
+xtcom-token,xt,XT.com,686.0
+pundi-x-2,pundix,Pundi X,687.0
+coredaoorg,core,Core,688.0
+anoma,xan,Anoma,689.0
+sign-global,sign,Sign,690.0
+hive,hive,Hive,691.0
+jett-crypto-2,jett,JETT CRYPTO,692.0
+world-mobile-token,wmtx,World Mobile Token,693.0
+nosana,nos,Nosana,694.0
+chia,xch,Chia,695.0
+chainflip,flip,Chainflip,696.0
+zylo-ecosystem,zylo,Zylo Ecosystem,697.0
+irys,irys,Irys,698.0
+catwifhat-2,$cwif,catwifhat,699.0
+ark,ark,ARK,700.0
+ethereum-pow-iou,ethw,EthereumPoW,701.0
+paxos-standard,usdp,Pax Dollar,702.0
+iostoken,iost,IOST,703.0
+geode-chain,geode,Geode Chain,664.0
+dogs-2,dogs,Dogs,704.0
+monerium-eur-money,eure,Monerium EUR emoney [OLD],705.0
+blast,blast,Blast,706.0
+waves,waves,Waves,707.0
+osmosis,osmo,Osmosis,708.0
+g-token,g,Gravity (by Galxe),709.0
+tdccp,tdccp,TDCCP,710.0
+mantra,mantra,MANTRA,711.0
+uquid-coin,uqc,Uquid Coin,712.0
+metamask-usd,musd,MetaMask USD,713.0
+tokenised-gbp,tgbp,Tokenised GBP,714.0
+ardor,ardr,Ardor,715.0
+ai-powered-finance,aipf,AI Powered Finance,716.0
+token-pocket,tpt,TokenPocket Token,717.0
+power-protocol,power,Power Protocol,718.0
+liquity-usd,lusd,Liquity USD,719.0
+croatian-ff-fan-token,vatreni,Croatian Football Federation Token,720.0
+midas-m1-usd-market-neutral,mm1-usd,Midas M1 USD Market Neutral,721.0
+auction,auction,Bounce,722.0
+nova-3,sn68,NOVA,723.0
+obligate-trade-finance-yield,otfy,Obligate Trade Finance Yield,724.0
+metal,mtl,Metal DAO,725.0
+ishares-bitcoin-trust-ondo-tokenized,ibiton,iShares Bitcoin Trust (Ondo Tokenized),722.0
+frax-share,frax,Frax (prev. FXS),726.0
+ishares-silver-trust-ondo-tokenized-stock,slvon,iShares Silver Trust (Ondo Tokenized Stock),727.0
+zerobase,zbt,ZEROBASE,728.0
+bucket-protocol-buck-stablecoin,buck,Bucket Protocol BUCK Stablecoin,729.0
+constellation-labs,dag,Constellation,730.0
+tensor,tnsr,Tensor,731.0
+gensyn,ai,Gensyn,732.0
+sanctum-2,cloud,Cloud,733.0
+microstrategy-ondo-tokenized-stock,mstron,MicroStrategy (Ondo Tokenized Stock),734.0
+zzz-2,zzz,ZZZ,735.0
+dolphin-2,pod,Dolphin,736.0
+nyc-token,nyc,NYC,736.0
+frenpet,fp,Fren Pet,737.0
+metya,my,MetYa,738.0
+pendulum-chain,pen,Pendulum,739.0
+canopy,cnpy,Canopy,740.0
+victoria-vr,vr,Victoria VR,741.0
+everything,ev,Everything,742.0
+jpy-coin,jpyc,JPY Coin,743.0
+openai-republic-pre-ipo,preopai,OpenAI (Republic Pre-IPO),744.0
+spdr-s-p-500-etf-trust-robinhood-tokenized-stock,spy,SPDR S&P 500 ETF Trust • Robinhood Token,745.0
+tokamak-network,ton,Tokamak Network,746.0
+everipedia,iq,IQ,747.0
+swftcoin,swftc,SWFTCOIN,748.0
+iexec-rlc,rlc,iExec RLC,749.0
+kiichain,kii,KiiChain,750.0
+impossible-cloud-network-token,icnt,Impossible Cloud Network Token,751.0
+prospective,pros,Prospective,752.0
+carv,carv,CARV,753.0
+utya,utya,Utya,754.0
+tokenlon,lon,Tokenlon,755.0
+energy-web-token,ewt,Energy Web Token,756.0
+cartesi,ctsi,Cartesi,757.0
+okzoo,aiot,OKZOO,758.0
+metis-token,metis,Metis,759.0
+vin-2,vin,VulgarTycoon,760.0
+the-innovation-game,tig,The Innovation Game,761.0
+aleo,aleo,ALEO,762.0
+fogo,fogo,Fogo,763.0
+binaryx,bnx,BinaryX [OLD],764.0
+stepn,gmt,GMT,765.0
+jpyc,jpyc,JPY Coin v1,766.0
+wax,waxp,WAX,767.0
+whiteheart,white,Whiteheart,
+velvet,velvet,Velvet,768.0
+abey,abey,Abey,769.0
+gm-3,sn28,gm,770.0
+ubik,ubik,ubik,771.0
+home,home,HOME,772.0
+stratis,strax,Xertra,773.0
+somnia,somi,Somnia,774.0
+river,river,River,775.0
+hyperlane,hyper,Hyperlane,776.0
+zelcash,flux,Flux,777.0
+smooth-love-potion,slp,Smooth Love Potion,778.0
+block-street,bsb,Block Street,779.0
+pha,pha,PHALA,780.0
+skale,skl,SKALE,781.0
+opengradient,opg,OpenGradient,782.0
+basecat,basecat,Basecat,783.0
+milk-alliance,mlk,MiL.k,784.0
+lucidum,lucic,Lucidum,785.0
+galaxy-usdt-quality,eth:gusdtq,Galaxy USDT Quality,786.0
+electronic-usd,eusd,Electronic USD,787.0
+wyde-end-hunger,eat,WYDE: End Hunger,788.0
+usual,usual,Usual,789.0
+yield-guild-games,ygg,Yield Guild Games,790.0
+redteam,sn61,RedTeam,791.0
+galaxy-weth-quality,eth:gwethq,Galaxy WETH Quality,792.0
+hex-trust-usdx,usdx,Hex Trust USD,792.0
+scandic-coin,snc,Scandic Coin,793.0
+naoris,naoris,NaoX Protocol,794.0
+medxt,medxt,MEDXT,795.0
+myonion-fun,$onion,MyOnion.fun,
+4stock,4stock,4Stock,796.0
+sats-ordinals,sats,SATS (Ordinals),797.0
+galaxy-usdc-quality,eth:gusdcq,Galaxy USDC Quality (Ethereum),798.0
+ergo,erg,Ergo,799.0
+sailout-royalty,sail.r,SailOut Royalty,800.0
+liquity,lqty,Liquity,801.0
+stargate-finance,stg,Stargate Finance,802.0
+cortex-2,cx,Cortex,803.0
+strikecoin,strx,StrikeX,804.0
+medibloc,med,Medibloc,805.0
+airtor-protocol,anyone,ANyONe Protocol,806.0
+bitcast,sn93,Bitcast,807.0
+astronaut-2,astro,astronaut,802.0
+opal-3,opal,Opal,808.0
+woo-network,woo,WOO,809.0
+bankercoin-2,bnkr,BankrCoin,810.0
+big-time,bigtime,Big Time,811.0
+elephant-money,elephant,Elephant Money,812.0
+usdh-2,usdh,USDH,813.0
+dual,dual,Dual,814.0
+qanplatform,qanx,QANplatform,815.0
+sixseven,67,SIXSEVEN,816.0
+aevo-exchange,aevo,Aevo,817.0
+overtake,take,OVERTAKE,818.0
+auki-labs,auki,Auki,819.0
+sk-hynix-bstocks-tokenized-stock,skhyb,SK Hynix (bStocks Tokenized Stock),820.0
+nillion,nil,Nillion,821.0
+nesa,nes,Nesa,822.0
+cetus-protocol,cetus,Cetus Protocol,823.0
+hunt-token,hunt,Hunt,824.0
+tiger-alpha,sn107,Tiger Alpha,825.0
+knots,knots,KNOTS,826.0
+nvidia-robinhood-tokenized-stock,nvda,NVIDIA • Robinhood Token,827.0
+cobak-token,cbk,Cobak,828.0
+peapods-finance,peas,Peapods Finance,829.0
+aixbt,aixbt,aixbt,830.0
+tronbank,tbk,TronBank,831.0
+ubs_umint_eth,umint,UBS USD Money Market Investment Fund Token,
+gigachad-2,giga,Gigachad,832.0
+chaingpt,cgpt,ChainGPT,833.0
+black-phoenix,bpx,Black Phoenix,834.0
+localcoinswap,lcs,LocalCoinSwap,834.0
+openeden,eden,OpenEden,834.0
+re-protocol-reusde,reusde,Re Protocol reUSDe,835.0
+dkargo,dka,dKargo,836.0
+pinksale,pinksale,PinkSale,842.0
+clearpool,cpool,Clearpool,837.0
+electroneum,etn,Electroneum,838.0
+moonbirds,birb,Moonbirds,839.0
+alphabet-class-a-ondo-tokenized-stock,googlon,Alphabet Class A (Ondo Tokenized Stock),840.0
+degate,dg,DeGate,846.0
+hundred,hundred,HUNDRED,841.0
+orizon,ori,Orizon,842.0
+pocket-network,pokt,Pocket Network,843.0
+cysic,cys,Cysic,844.0
+brevis,brev,Brevis,845.0
+roundhill-memory-etf-bstocks-tokenized-stock,dramb,Roundhill Memory ETF (bStocks Tokenized Stock),846.0
+orochi-network,on,Orochi Network,847.0
+verse-world,verse,Verse World,848.0
+meet48,idol,MEET48,849.0
+grvt,grvt,GRVT Token,850.0
+4-2,4,4,851.0
+perle,prl,Perle,852.0
+rosa-inu,rosa,Rosa Inu,853.0
+gradients,sn56,Gradients,854.0
+quantixai,qfi,Quantix Finance,855.0
+oho-blockchain,oho,OHO Blockchain,862.0
+hippius,sn75,Hippius,856.0
+keep-network,keep,Keep Network,857.0
+bonfida,fida,Bonfida,858.0
+liquid-mercury,merc,Liquid Mercury,859.0
+gama-token,gama,Gama Token,860.0
+chomolon-joff,joff,Chomolon Joff,861.0
+certik,ctk,Shentu,862.0
+mey-network,mey,Mey Network,863.0
+public-meme-token,pmt,Public Masterpiece Token,864.0
+yield-basis,yb,Yield Basis,865.0
+divi,divi,Divi,866.0
+tesla-bstocks-tokenized-stock,tslab,Tesla (bStocks Tokenized Stock),867.0
+ryze,ryze,Ryze,888.0
+robo-token-2,robo,Fabric Protocol,868.0
+gamebuild,game,GameBuild,869.0
+arcblock,abt,Arcblock,870.0
+nxusd,nxusd,NXUSD,871.0
+backed-ib01-treasury-bond-0-1yr,bib01,Backed IB01 $ Treasury Bond 0-1yr,872.0
+freysa-ai,fai,Freysa AI,873.0
+ishares-20-year-treasury-bond-etf-ondo-tokenized-etf,tlton,iShares 20+ Year Treasury Bond ETF (Ondo Tokenized ETF),874.0
+biconomy,bico,Biconomy,875.0
+enso,enso,Enso,876.0
+cluster-protocol,cp,Cluster Protocol,877.0
+nym,nym,Nym,878.0
+audius,audio,Audius,879.0
+ao-computer,ao,ao Computer,880.0
+gaib-aid,aid,GAIB AID,881.0
+siren-2,siren,Siren,882.0
+cyberconnect,cyber,CYBER,883.0
+avalaunch,xava,Avalaunch,884.0
+polyswarm,nct,PolySwarm,885.0
+nvidia-bstocks,nvdab,NVIDIA (bStocks Tokenized Stock),886.0
+wrapped-gonka,wgnk,Wrapped Gonka,887.0
+definitive,edge,Definitive,888.0
+x-dol-x,xdol,x-DOL-x,889.0
+dodo,dodo,DODO,889.0
+octra,oct,Octra,890.0
+my-paqman-coin,mpc,My Paqman Coin,791.0
+lumia,lumia,Lumia,891.0
+venom,venom,Venom,892.0
+bitmart-token,bmx,BitMart,893.0
+debtreliefbot,drb,DebtReliefBot,894.0
+adshares,ads,Adshares,895.0
+songbird,sgb,Songbird,896.0
+shardus,ult,Shardus,900.0
+sophon,soph,Sophon,897.0
+qkacoin,qka,Qkacoin,898.0
+bit2me,b2m,Bit2Me,899.0
+gold-park,gpt,Gold Park,900.0
+idlemine,idle,IdleMine,901.0
+hylo-usd,hyusd,Hylo USD,902.0
+zest-protocol,zest,Zest Protocol,903.0
+stonkbroker,stonkbroker,StonkBroker,904.0
+singularitynet,agix,SingularityNET,905.0
+quark-chain,qkc,QuarkChain,906.0
+synapse-2,syn,Synapse,907.0
+czs-dog,broccoli,CZ's Dog,908.0
+janction,jct,Janction,909.0
+max-token,max,MAX,910.0
+intel-ondo-tokenized-stock,intcon,Intel (Ondo Tokenized Stock),911.0
+capybobo,pybobo,Capybobo,912.0
+theros,theros,Theros,913.0
+anime,anime,Animecoin,914.0
+pippin,pippin,pippin,915.0
+taiko,taiko,Taiko,916.0
+ishares-core-msci-eafe-etf-ondo-tokenized-etf,iefaon,iShares Core MSCI EAFE ETF (Ondo Tokenized ETF),917.0
+openeden-open-dollar,usdo,OpenEden OpenDollar,926.0
+little-john,john,Little John,831.0
+connect-token-wct,wct,WalletConnect Token,918.0
+roll-2,roll,ROLL,919.0
+pond-coin,pndc,PondCoin,920.0
+adventure-gold,agld,Adventure Gold,921.0
+morpheusai,mor,Morpheus AI,922.0
+kekius-maximus-6,kekius,Kekius Maximus,923.0
+a-hunters-dream,caw,A Hunters Dream,924.0
+megausd,usdm,MegaUSD,925.0
+synfutures,f,SynFutures,926.0
+celer-network,celr,Celer Network,927.0
+arpa,arpa,ARPA,928.0
+versatize-coin,vtcn,Versatize Coin,929.0
+bsquared-network,b2,BSquared Network,930.0
+halo-4,halo,Halo,931.0
+portal-2,portal,Portal,932.0
+delta-exchange-token,deto,Delta Exchange,933.0
+endurance,ace,Fusionist,933.0
+verus-coin,vrsc,Verus,934.0
+fake-world-assets,fwa,Fake World Assets,935.0
+seda-2,seda,SEDA,936.0
+umia,umia,Umia,937.0
+goatseus-maximus,goat,Goatseus Maximus,938.0
+atomone,atone,AtomOne,939.0
+tesla-ondo-tokenized-stock,tslaon,Tesla (Ondo Tokenized Stock),940.0
+bityuan,bty,Bityuan,941.0
+tree-capital,tree,Tree,942.0
+hegic,hegic,Hegic,943.0
+solstice,slx,Solstice,944.0
+tutorial,tut,Tutorial,945.0
+realio-network,rio,Realio Network Token,946.0
+mira-3,mira,Mira,947.0
+memory-cow-moo,moo,Memory cow Moo,948.0
+schuman-europ,europ,EURØP,949.0
+interfold,fold,The Interfold,950.0
+araracoin,arara,Araracoin,951.0
+marsmi,marsmi,MarsMi,952.0
+fuzzybear,fuzzy,Fuzzybear,953.0
+chromaway,chr,Chromia,954.0
+moviebloc,mbl,MovieBloc,955.0
+citrea,ctr,Citrea,956.0
+currenc-group-inc,curr,CURRENC Group Inc.,957.0
+striker,stkri,Striker,850.0
+moviebloc,mbl,MovieBloc,955.0
+banana-gun,banana,Banana Gun,958.0
+coinbase-bstocks-tokenized-stock,coinb,Coinbase (bStocks Tokenized Stock),959.0
+codatta,xny,Codatta,960.0
+simon-s-cat,cat,Simon's Cat,961.0
+blue-chip-4,bluechip,BLUE CHIP,962.0
+huobi-token,ht,Huobi,963.0
+qie,qie,QIE Blockchain,964.0
+genius-ai,gnus,GENIUS AI,965.0
+rujira,ruji,Rujira,966.0
+marvell-technology-ondo-tokenized-stock,mrvlon,Marvell Technology (Ondo Tokenized Stock),967.0
+spiko-uk-t-bills-money-market-fund,uktbl,Spiko UK T-Bills Money Market Fund,968.0
+diamond-token-2,dit,DIAMOND TOKEN 💎,986.0
+apertum,aptm,Apertum,969.0
+zentry,zent,Zentry,970.0
+official-fo,fo,Official FO,971.0
+metadium,meta,Metadium,972.0
+openserv,serv,OpenServ,973.0
+xai-blockchain,xai,Xai,974.0
+storj,storj,Storj,975.0
+magic,magic,Treasure,976.0
+metaplex,mplx,Metaplex,977.0
+dia-data,dia,DIA,978.0
+bless-2,bless,Bless,979.0
+kotai,kti,KOTAI,980.0
+faith-tribe,ftrb,Faith Tribe,981.0
+aquarius,aqua,Aquarius,982.0
+aura-on-sol,aura,aura,983.0
+harrypotterobamasonic10in,bitcoin,HarryPotterObamaSonic10Inu (ETH),984.0
+nexacoin,nexa,Nexa,985.0
+fart-coin,frtc,FART COIN,986.0
+chrema-coin,crmc,Chrema Coin,992.0
+solayer,layer,Solayer,987.0
+midas-wellington-income-opportunities,mwin,Midas Wellington Income Opportunities,988.0
+felysyum,fely,Felysyum,989.0
+dinero-2,dinero,Dinero,990.0
+bitmind,sn34,BitMind,991.0
+orderly-network,order,Orderly,992.0
+claude-crab,crabai,Claude Crab,1007.0
+metamui,mmui,MetaMUI,993.0
+bertram-the-pomeranian,bert,Bertram The Pomeranian,994.0
+test-3,tst,Test,995.0
+messier,m87,MESSIER,998.0
+bob-build-on-bitcoin,bob,BOB (Build on Bitcoin),996.0
+based-one,based,Based,997.0
+katana-network-token,kat,Katana,999.0
+humidifi,wet,HumidiFi,1000.0
+wojak-5,wojak,wojak,1001.0
+tribe-2,tribe,Tribe,1002.0
+strategy-stretch-preferred-ondo-tokenized,strcon,Strategy Stretch Preferred (Ondo Tokenized),1003.0
+vnx,vnx,VNX,1007.0
+unit-00-rei,rei,Rei,1004.0
+apple-xstock,aaplx,Apple xStock,1005.0
+coin98,c98,Coin98,1006.0
+brew,brew,BREW,1007.0
+dovu-2,dovu,DOVU,1008.0
+echelon-prime,prime,Echelon Prime,1009.0
+superform,up,Superform,1010.0
+spell-token,spell,Spell,1011.0
+tx,tx,tx,1012.0
+sandisk-corporation-xstock,sndkx,Sandisk Corporation xStock,1021.0
+myx-finance,myx,MYX Finance,1013.0
+spacex-republic-pre-ipo,prespcx,SpaceX (Republic Pre-IPO),1014.0
+joe,joe,JOE,1015.0
+sapien-2,sapien,Sapien,1016.0
+the-grays-currency,ptgc,The Grays Currency,1017.0
+celo-dollar,usdm,Mento Dollar,1018.0
+dai-on-pulsechain,dai,DAI on PulseChain,1019.0
+wo-ta-ma-laile,我踏马来了,我踏马来了,1020.0
+dogbull,dogo,DogBull,1021.0
+spy-bstocks-tokenized-stock,spyb,SPY (bStocks Tokenized Stock),1023.0
+compounding-open-dollar,cusdo,Compounding OpenDollar,1024.0
+radicle,rad,Radworks,1022.0
+ridges-ai,sn62,Ridges AI,1025.0
+beincom,bic,Beincom,1025.0
+initia,init,Initia,1026.0
+bluwhale,bluai,Bluwhale,1027.0
+ishares-core-us-aggregate-bond-etf-ondo-tokenized-etf,aggon,iShares Core US Aggregate Bond ETF (Ondo Tokenized ETF),1028.0
+zcoin,firo,Firo,1029.0
+boundless,zkc,Boundless,1030.0
+researchcoin,rsc,ResearchCoin,1031.0
+recall,recall,Recall,1033.0
+nest-alpha-vault,nalpha,Nest Alpha Vault,1032.0
+tokenize-xchange,tkx,Tokenize Xchange,960.0
+usdpt-western-union,usdpt,USDPT | Western Union,1034.0
+hippo-protocol,hp,Hippo Protocol,1035.0
+bald,bald,Bald,1038.0
+pepecoin-2,pepecoin,PepeCoin,1036.0
+chili-coin,chi,Chili Coin,934.0
+deso,deso,Decentralized Social,1038.0
+corn-3,corn,Corn,1039.0
+bubblemaps,bmt,Bubblemaps,1040.0
+kled-ai,kled,Kled AI,1041.0
+streamex-gldy,gldy,Streamex GLDY,1042.0
+orbio-so,orbio,Orbio.so,1037.0
+hypurr-fun,hfun,Hypurr Fun,1043.0
+dynachain,dyna,Dynachain,993.0
+404-gen,sn17,404—GEN,1044.0
+fartboy,$fartboy,Fartboy,1046.0
+bitlayer-bitvm,btr,Bitlayer,1045.0
+vow,vow,Vow,1047.0
+my-neighbor-alice,alice,My Neighbor Alice,1050.0
+tendies-2,tendies,TENDIES,1048.0
+openkaito,sn5,OpenKaito,1049.0
+stbl,stbl,STBL,1051.0
+icon,icx,ICON,1052.0
+esui-dollar,suiusde,eSui Dollar,1054.0
+concierge-io,ava,AVA (Travala),1055.0
+delysium,agi,Delysium,1053.0
+osaka-protocol,osak,Osaka Protocol,1056.0
+xsgd,xsgd,XSGD,1057.0
+doodles,dood,Doodles,1058.0
+unity-2,uty,Unity,1069.0
+og-fan-token,og,OG Fan Token,1059.0
+infinity-ground,ain,Infinity Ground,1060.0
+maiar-dex,mex,xExchange,1061.0
+fluent-network,blend,Fluent,1062.0
+autonomi,ant,Autonomi,1063.0
+trust-3,trust,TRUST,1064.0
+egl1,egl1,EGL1,1066.0
+big-dog-fink,bink,Big Dog Fink,1067.0
+pumpcade,pumpcade,PUMPCADE,1065.0
+griffain,griffain,GRIFFAIN,1068.0
+stable-coin-2,sbc,Stable Coin,1069.0
+bitquant,sn15,ORO,1070.0
+hydrated-dollar,hollar,Hydrated Dollar,1071.0
+nexst,nxt,NEXST,1072.0
+debox,box,DeBox,1074.0
+chill-guy,chillguy,Just a chill guy,1073.0
+lagrange,la,Lagrange,1075.0
+overtime,over,Overtime,1077.0
+intel-tokenized-bstocks,intcb,Intel (bStocks Tokenized Stock),1079.0
+secret,scrt,Secret,1078.0
+brickken,bkn,Brickken,1080.0
+vcred,vcred,VCRED,1094.0
+diam,diam,DIAM,1076.0
+maverick-protocol,mav,Maverick Protocol,1081.0
+usd-coinvertible,usdcv,USD CoinVertible,1082.0
+chex-token,chex,Chintai,1083.0
+dolomite,dolo,Dolomite,1084.0
+h2o-2,h2o,H2O,1085.0
+intel-xstock,intcx,Intel xStock,1086.0
+saucerswap,sauce,SaucerSwap,1087.0
+sodax,soda,SODAX,1088.0
+origin-protocol,ogn,Origin Token,1089.0
+global-commercial-business,gcb,Global Commercial Business,1090.0
+bullbit,bubi,Bullbit,1091.0
+cacao,cacao,Maya Protocol,972.0
+unitas-gold,xgld,Unitas Gold,1092.0
+loopring,lrc,Loopring,1093.0
+credible-finance,cred,Credible Finance,1094.0
+stable-mint-usd,usdsm,Stable Mint USD,1095.0
+midas-re7-ethereum,mre7eth,Midas Re7 Ethereum,1095.0
+bone-shibaswap,bone,Bone ShibaSwap,1096.0
+ado-network,ado,ADO Protocol,1097.0
+vk-token,vk,VK Token,1098.0
+defi-ssi,defi.ssi,DEFI.ssi,1099.0
+coinex-token,cet,CoinEx,1100.0
+epic-chain,epic,Epic Chain,1101.0
+freedom-dollar,fusd,Freedom Dollar,1102.0
+sofi-technologies-ondo-tokenized-stock,sofion,SoFi Technologies (Ondo Tokenized Stock),1103.0
+proton-loan,loan,Loan Protocol,1104.0
+decentrawood,deod,Decentrawood,1105.0
+wise-token11,wise,Wise,1106.0
+alethea-artificial-liquid-intelligence-token,ali,Artificial Liquid Intelligence,1107.0
+playsout,play,PlaysOut,1108.0
+yusd-stablecoin,yusd,YUSD Stablecoin,1110.0
+tokenbot-2,clanker,tokenbot,1110.0
+nineteen-ai,sn19,Blockmachine,1109.0
+mwx-token,mwxt,MWX Token,1111.0
+wibx,wbx,Wibx,1112.0
+ishares-core-s-p-total-us-stock-market-etf-ondo-tokenized-etf,itoton,iShares Core S&P Total US Stock Market ETF (Ondo Tokenized ETF),1127.0
+mainframe-2,sn25,Mainframe,1113.0
+corgiai,corgiai,CorgiAI,1114.0
+lorenzo-protocol,bank,Lorenzo Protocol,1115.0
+kernel-2,kernel,KernelDAO,1116.0
+mimatic,mimatic,MAI,1117.0
+uchain-2,ucn,UCHAIN,1118.0
+ellipsis,eps,Ellipsis [OLD],1119.0
+coinbase-xstock,coinx,Coinbase xStock,1120.0
+ponke,ponke,PONKE,1121.0
+wanchain,wan,Wanchain,1122.0
+youves-uusd,uusd,Youves uUSD,655.0
+usdb,usdb,USDB,1123.0
+zenchain-2,ztc,ZenChain,1124.0
+yei-finance,clo,Yei Finance,1126.0
+elsa,elsa,Elsa,1125.0
+magic-internet-money-runes,mim,MAGIC•INTERNET•MONEY (Bitcoin),1128.0
+elonxcat,exc,ElonXCat,1129.0
+infinex-2,inx,Infinex,1127.0
+bitchemical-token,bchem,Bitchemical Token,991.0
+hastra-auto,auto,Hastra AUTO,1130.0
+hyperlink-hlhype,hlhype,HyperLink hlHYPE,1102.0
+tac,tac,TAC,1131.0
+optio,opt,Optio,1042.0
+infinit,in,INFINIT,1132.0
+origyn-foundation,ogy,ORIGYN,1133.0
+spacex-robinhood-tokenized-stock,spcx,SpaceX • Robinhood Token,1134.0
+semicon-bull-3x-etf-bstocks-tokenized-stock,soxlb,Semicon Bull 3X ETF (bStocks Tokenized Stock),1135.0
+aurora-near,aurora,Aurora,1136.0
+ninja-squad,nst,Ninja Squad Token,1137.0
+minotari,xtm,MinoTari (Tari),1138.0
+hairdao,hair,HairDAO,1139.0
+firmachain,fct,Firmachain,1140.0
+pepecoin-network,pep,Pepecoin,1141.0
+asteroid-3,asteroid,ASTEROID,1142.0
+robinhood-xstock,hoodx,Robinhood xStock,1143.0
+save,save,Save,1144.0
+equilibria-finance,eqb,Equilibria Finance,1145.0
+vifoxcoin,vfx,ViFoxCoin,1146.0
+pharaoh-liquid-staking-token,p33,Pharaoh Liquid Staking Token,1147.0
+crypgpt,crypgpt,CrypGPT,1148.0
+yieldfi-ytoken,yusd,YieldFi yToken,1149.0
+the-stonks-exchange,stonkex,The Stonks Exchange,1150.0
+puffer-finance,puffer,Puffer,1151.0
+meta-platforms-ondo-tokenized-stock,metaon,Meta Platforms (Ondo Tokenized Stock),1152.0
+frok-ai,frok,FROK,1153.0
+tradable-latam-charge-card-ssn,pc0000111,Tradable LatAm Charge Card SSN,1154.0
+ember-third-eye,ethird,Ember Third Eye,1144.0
+orchid-protocol,oxt,Orchid Protocol,1155.0
+wolf-2,wolf,WOLF,1156.0
+buttcoin-7,buttcoin,Buttcoin,1157.0
+intuition,trust,Intuition,1158.0
+usualx,usualx,USUALx,1159.0
+pawswap,paw,PAW,1160.0
+marinade,mnde,Marinade,1161.0
+capybara-nation,bara,Capybara Nation,1162.0
+pulsechain-peacock,pcock,PulseChain Peacock,1163.0
+nest-alpha-vault-lp,inalpha,Nest Alpha Vault (LP),1164.0
+hamster-kombat,hmstr,Hamster Kombat,1165.0
+gold-token-sa-dgld-tokenized-gold,dgld,Digital Gold,1166.0
+caldera,era,Caldera,1168.0
+collect-on-fanable,collect,Collect on Fanable,1167.0
+graphite-protocol,gp,Graphite Protocol,1169.0
+tg-casino,tgc,TG.Casino,1170.0
+atletico-madrid,atm,Atletico Madrid Fan Token,1171.0
+quai-network,quai,Quai Network,1172.0
+gains-network,gns,Gains Network,1173.0
+bxn,bxn,BXN,1174.0
+wazirx,wrx,WazirX,1175.0
+doge-head-coin,dhc,Doge Head Coin,1176.0
+balsa-mm-fund,bmmf,Balsa MM Fund,1037.0
+taohash,sn14,Cacheon,1177.0
+handy,handy,Handy,1178.0
+swarm-3,sn124,Swarm,1179.0
+harmony,one,Harmony,1180.0
+gold-xstock,gldx,Gold xStock,1181.0
+pare,pare,Pare,1182.0
+spacex-ondo-tokenized-stock,spcxon,SpaceX (Ondo Tokenized Stock),1182.0
+triple-plus,tpt,Triple Plus,1183.0
+what-if-3,if,What IF,1184.0
+ishares-core-msci-emerging-markets-etf-ondo-tokenized-etf,iemgon,iShares Core MSCI Emerging Markets ETF (Ondo Tokenized ETF),1185.0
+ishares-gold-trust-ondo-tokenized-stock,iauon,iShares Gold Trust (Ondo Tokenized Stock),1186.0
+aligned,align,Aligned,1187.0
+eusd-2,eusd,eUSD,1188.0
+bnbtiger,bnbtigerog,BNB Tiger OG,1190.0
+backed-govies-0-6-months-euro,bc3m,Backed GOVIES 0-6 months EURO,1191.0
+counterparty,xcp,Counterparty,1192.0
+moonriver,movr,Moonriver,1193.0
+defi-money,money,Defi.money,1194.0
+foom,foom,Foom,1197.0
+usda-4,usda,USDA,1195.0
+axis-usd,usdx,Axis USD,1196.0
+ishares-msci-eafe-etf-ondo-tokenized-etf,efaon,iShares MSCI EAFE ETF (Ondo Tokenized ETF),1214.0
+meta-xstock,metax,Meta xStock,1197.0
+defi-janus-henderson-anemoy-aaa-clo-fund,dejaaa,DeFi Janus Henderson Anemoy AAA CLO Fund,1198.0
+iagon,iag,Iagon,1199.0
+golden-butterfly-sacred-armor,金蝶圣甲,金蝶圣甲 (Golden Butterfly Sacred Armor),1200.0
+spacex-reality-protocol,rspcx,SpaceX (Reality Protocol),1201.0
+superrare,rare,SuperRare,1202.0
+pdd-holdings-ondo-tokenized,pddon,PDD Holdings (Ondo Tokenized),1203.0
+xion-2,xion,Xion,1204.0
+sideshift-token,xai,SideShift,1121.0
+verona,verona,Verona,1206.0
+alien-worlds,tlm,Alien Worlds,1205.0
+ishares-tips-bond-etf-ondo-tokenized-etf,tipon,iShares TIPS Bond ETF (Ondo Tokenized ETF),1219.0
+alchemix-usd,alusd,Alchemix USD,1207.0
+elysia,el,ELYSIA,1208.0
+lukso-token,lyxe,LUKSO [OLD],1216.0
+rich-kids-of-tao,sn110,Green Compute,1209.0
+shopinx,spx,ShopinX,1210.0
+radix,xrd,Radix,1211.0
+saffron-finance,sfi,saffron.finance,1212.0
+wecan,wecan,Wecan,1214.0
+slerf,slerf,Slerf [OLD],1215.0
+bella-protocol,bel,Bella Protocol,1216.0
+koma-inu,koma,Koma Inu,1217.0
+kishu-inu,kishu,Kishu Inu,1218.0
+edexa,edx,edeXa,1248.0
+dymension,dym,Dymension,1219.0
+manifesting,manifest,Manifesting,1220.0
+rupiah-token,idrt,Rupiah Token,1213.0
+benqi,qi,BENQI,1221.0
+newton-protocol,newt,Newton Protocol,1222.0
+dippy,sn11,Dippy,1223.0
+forta,fort,Forta,1224.0
+trusta-ai,ta,Trusta AI,1225.0
+boba-network,boba,Boba Network,1226.0
+konet,konet,KONET,1227.0
+spdr-gold-shares-robinhood-token,gld,SPDR Gold Shares • Robinhood Token,1228.0
+andy-the-wisguy,andy,ANDY ETH,1229.0
+iusd,iusd,Indigo Protocol iUSD,1232.0
+abelian,abel,Abelian,1230.0
+hivemapper,honey,Hivemapper,1231.0
+heima,hei,Heima,1233.0
+babyboomtoken,bbt,BabyBoomToken,1235.0
+pop-planet,p,PoP Planet,1234.0
+ishares-russell-1000-growth-etf-ondo-tokenized-etf,iwfon,iShares Russell 1000 Growth ETF (Ondo Tokenized ETF),1243.0
+thena,the,Thena,1236.0
+tradoor,tradoor,Tradoor,1237.0
+aeon-3,aeon,AEON,1239.0
+gunz,gun,Gunz,1238.0
+chainbase,c,Chainbase,1240.0
+act-i-the-ai-prophecy,act,Act I The AI Prophecy,1242.0
+jtrsy-derwa,dejtrsy,JTRSY deRWA,1241.0
+strike-2,strike,Strike,1243.0
+stake-link,sdl,stake.link,1244.0
+theoriq,thq,Theoriq,1245.0
+ava-ai,ava,Ava AI,1248.0
+eurocoinpay,ecte,EurocoinToken,1246.0
+edel,edel,Edel,1247.0
+gods-unchained,gods,Gods Unchained,1249.0
+solid-x,solidx,Solid X,1250.0
+mia-2,mia,MIA,1251.0
+riv-coin,riv,RIV Coin,1252.0
+zkpass,zkp,zkPass,1254.0
+ix-swap,ixs,IXS,1253.0
+mossland,moc,Mossland,1255.0
+uranium,xu3o8,Uranium,1256.0
+ishares-0-3-month-treasury-bond-etf-ondo-tokenized-etf,sgovon,iShares 0-3 Month Treasury Bond ETF (Ondo Tokenized ETF),1275.0
+ishares-msci-south-korea-etf-bstocks-tokenized-stock,ewyb,iShares MSCI South Korea ETF (bStocks Tokenized Stock),1257.0
+poollotto-finance,plt,Poollotto.finance,1124.0
+mcdex,mcb,MUX Protocol,1258.0
+kaio,kaio,KAIO,1259.0
+stakestone,sto,StakeStone,1260.0
+ai-factory,sn80,OpenRoboto,1261.0
+ivault,ivt,ivault,1262.0
+flamewire,sn97,FlameWire,1263.0
+adex,adx,heyAura,1264.0
+georgeplaysclashroyale,clash,GeorgePlaysClashRoyale,1265.0
+chainnova-network,chnet,CHAINNOVA NETWORK,1275.0
+xmaquina,deus,XMAQUINA,1266.0
+sturdy-subnet,sn10,Pareton,1267.0
+hava,hava,HAVA,1268.0
+moonwell-artemis,well,Moonwell,1269.0
+sharex-2,share,ShareX,1270.0
+smolecoin,smole,smolecoin,1271.0
+lingo,lingo,Lingo,1272.0
+delta,delta,Delta,1273.0
+apple-ondo-tokenized-stock,aaplon,Apple (Ondo Tokenized Stock),1274.0
+ycash,yec,Ycash,1275.0
+thorswap,thor,THORSwap,1278.0
+ambire-wallet,wallet,Ambire Wallet,1276.0
+squid-3,quid,Squid,1277.0
+mango-network,mgo,Mango Network,1278.0
+lava-network,lava,Lava Network,1279.0
+oraichain-token,orai,Oraichain,1280.0
+usdm-2,usdm,USDM,1282.0
+singularry,singularry,Singularry,1281.0
+opinion,opn,Opinion,1283.0
+tokenos-ai,tos,TokenOS AI,1284.0
+looped-hype,lhype,Looped Hype,1285.0
+peercoin,ppc,Peercoin,1286.0
+bitcoin-usd-btcfi,btcusd,Bitcoin USD (BTCFi),1287.0
+truth-2,prd,PRDCTR,1288.0
+coinbase-ondo-tokenized-stock,coinon,Coinbase (Ondo Tokenized Stock),1289.0
+sk-hynix-xstock,skhyx,SK Hynix xStock,1290.0
+nero-chain,nero,NERO Chain,1292.0
+cookie,cookie,Cookie DAO,1293.0
+avail,avail,Avail,1294.0
+tokenfi,token,TokenFi,1295.0
+darik-coin,darik,Darik Coin,1296.0
+apex-5,sn1,Apex,1297.0
+avalon-2,avl,Avalon,1298.0
+yield-optimizer-usd,yousd,Yield Optimizer USD,1299.0
+jumptoken,jmpt,JumpToken,1300.0
+achain,act,Achain,1291.0
+ahatoken,aht,AhaToken,1301.0
+measurable-data-token,mdt,Measurable Data,1302.0
+ditgold,ditau,DITGOLD,1303.0
+prologue,prologue,Prologue,1308.0
+froggie,froggie,Froggie,1304.0
+raydium-cat,raycat,Raydium Cat,1305.0
+w-ai-parked,sn39,basilica,1306.0
+superwalk,grnd,SuperWalk GRND,1307.0
+resolv,resolv,Resolv,1309.0
+thinking-cat,hmm,Thinking Cat,1310.0
+drift-protocol,drift,Drift Protocol,1311.0
+crepe-2,crepe,CREPE,1313.0
+solidus-aitech,acn,AITECH Cloud Network,1312.0
+amd-ondo-tokenized-stock,amdon,AMD (Ondo Tokenized Stock),1314.0
+midas-mre7yield,mre7yield,Midas mRe7YIELD,1315.0
+stader,sd,Stader,1316.0
+olaxbt,aio,OlaXBT,1317.0
+build-on-bnb,bob,Build On BNB,1319.0
+limitless-3,lmts,Limitless,1320.0
+autonolas,olas,Autonolas,1322.0
+microsoft-ondo-tokenized-stock,msfton,Microsoft (Ondo Tokenized Stock),1321.0
+hookr-fun,hookr,Hookr.fun,1318.0
+sonic-svm,sonic,Sonic SVM,1324.0
+dexsport,desu,Dexsport,1323.0
+anyswap,any,Anyswap,1325.0
+verified-emeralds,verem,Verified Emeralds,1326.0
+access-protocol,acs,Access Protocol,1327.0
+santos-fc-fan-token,santos,Santos FC Fan Token,1328.0
+backed-coinbase-global,bcoin,Backed Coinbase Global,1329.0
+marvell-xstock,mrvlx,Marvell xStock,1340.0
+perpspad,perpspad,perpspad,1330.0
+paris-saint-germain-fan-token,psg,Paris Saint-Germain Fan Token,1331.0
+luca,luca,LUCA,1332.0
+amazon-xstock,amznx,Amazon xStock,1333.0
+gamer-tag,gmrt,The Game Company,1334.0
+shmonad,shmon,ShMonad,1335.0
+numine-token,numi,NUMINE Token,1336.0
+solomon,solo,Solomon,1338.0
+assemble-protocol,asm,Assemble AI,1339.0
+balancer,bal,Balancer,1337.0
+hopr,hopr,HOPR,1340.0
+the-juggernaut,juggernaut,The Juggernaut,1342.0
+the-bitcoin-bull,tbb,The Bitcoin Bull,1341.0
+paradex,dime,Paradex,1343.0
+marblex,mbx,MARBLEX,1344.0
+crob-mob,crob,Crob Mob,1345.0
+pika-protocol,pika,Pika Protocol,1350.0
+marvell-technology-bstocks-tokenized-stock,mrvlb,Marvell Technology (bStocks Tokenized Stock),1346.0
+supra,supra,Supra,1348.0
+pepefork,pork,PepeFork,1347.0
+mcdull,mcdull,McDull (Meme),1351.0
+ishares-msci-emerging-markets-etf-ondo-tokenized-etf,eemon,iShares MSCI Emerging Markets ETF (Ondo Tokenized ETF),1349.0
+goose-token,goose,Goose Token,1350.0
+as-roma-fan-token,asr,AS Roma Fan Token,1351.0
+pikaboss,pika,Pikaboss,1353.0
+up-2,up,up,1352.0
+tung-tung-tung-sahur-2,triplet,Tung Tung Tung Sahur,1354.0
+aia,aia,DeAgentAI,1355.0
+galatasaray-fan-token,gal,Galatasaray Fan Token,1358.0
+wrapped-hypertensor,tensor,Wrapped Hypertensor,1359.0
+bundle-cat,bun,Bundle Cat,1356.0
+midas-mapollo,mapollo,Midas mAPOLLO,1360.0
+vine,vine,Vine,1357.0
+tria,tria,TRIA,1361.0
+kleros,pnk,Kleros,1362.0
+agoras-currency-of-tau,agrs,Agoras: Tau Net,1363.0
+rice-ai,rice,Rice AI,1365.0
+xeqm-labs,xeqm,Exiom,1366.0
+mushroom-2,shroom,MUSHROOM,1364.0
+hera-finance,hera,Hera Finance,1367.0
+fc-barcelona-fan-token,bar,FC Barcelona Fan Token,1368.0
+anthropic-prestocks-2,anthropic,Anthropic PreStocks,1374.0
+strkbtc,strkbtc,strkBTC,1369.0
+memetern,mxt,Memetern,1402.0
+everlyn,lyn,Everlyn,1370.0
+marcopolo,mapo,MAP Protocol,1371.0
+fight-2,fight,FIGHT,1372.0
+heroes-of-mavia,mavia,Heroes of Mavia,1373.0
+aism-faith-token,aism,AISM FAITH TOKEN,1375.0
+apple-bstocks-tokenized-stock,aaplb,Apple (bStocks Tokenized Stock),1376.0
+pofu,pofu,Pofu,1377.0
+wrapped-itry,witry,Wrapped iTRY,1378.0
+cets-on-gold,cets,Cets On Gold,1379.0
+navi,navx,NAVI Protocol,1380.0
+anzen-usdz,usdz,Anzen USDz,1381.0
+telos,tlos,Telos,1382.0
+xeffy,xef,Xeffy,1383.0
+sentinel-protocol,bounty,ChainBounty,1384.0
+sino-2,sino,SINO,1385.0
+stake-dao,sdt,Stake DAO,1386.0
+swarms,swarms,Swarms,1387.0
+xborg,xbg,XBorg,1388.0
+nest-treasury-vault,ntbill,Nest Treasury Vault,1389.0
+patience-token,patience,Patience Token,1390.0
+elastos,ela,Elastos,1391.0
+imo,imo,IMO,1393.0
+raxol,raxol,RAXOL,1394.0
+blockv,vee,BLOCKv,1395.0
+symmio,symm,SYMMIO,1396.0
+monacoin,mona,MonaCoin,1397.0
+moonbeam,glmr,Moonbeam,1392.0
+i-love-puppies,puppies,I love puppies,1398.0
+redbelly-network-token,rbnt,Redbelly Network,1399.0
+microsoft-xstock,msftx,Microsoft xStock,1400.0
+bitcoin-pro,btcp,Bitcoin Pro,1401.0
+fuel-network,fuel,Fuel Network,1402.0
+soil,soil,Soil,1403.0
+data-universe,sn13,Data Universe,1404.0
+dojo-3,sn52,Dojo,1405.0
+saga-2,saga,Saga,1406.0
+pear-protocol,pear,Pear Protocol,1407.0
+red-pulse,phb,Phoenix Global [OLD],1323.0
+limewire-token,lmwr,LimeWire,1408.0
+badger-dao,badger,Badger,1409.0
+haroldonsol,harold,Harold,1410.0
+slash-vision-labs,svl,Slash Vision Labs,1411.0
+bitlight,light,Bitlight,1412.0
+heyanon,anon,Hey Anon,1413.0
+liquidity,sn77,Liquidity,1414.0
+bitmine-immersion-technologies-ondo-tokenized-stocks,bmnron,BitMine Immersion Technologies (Ondo Tokenized Stock),1415.0
+hydranet,hdn,Hydranet,1416.0
+honey-3,busd,Bera USD,1417.0
+frong,frong,frong,1418.0
+bitcoin-limited-edition,btcle,Bitcoin Limited Edition,1419.0
+stasis-eurs,eurs,STASIS EURO,1420.0
+microduck,microduck,microduck,1421.0
+nuva-nvprime,nvprime,NUVA nvPRIME,1422.0
+gitcoin,gtc,Gitcoin,1423.0
+dexnet,dexnet,DexNet,1424.0
+marlin,pond,Marlin,1425.0
+nftx,nftx,NFTX,1427.0
+dent,dent,Dent,1426.0
+baton-3,baton,baton,1428.0
+yellow,yellow,Yellow,1429.0
+statics-protocol,statics,Statics Protocol,1431.0
+data-ownership-protocol-2,dop2,Data Ownership Protocol 2,1432.0
+wilder-world,wild,Wilder World,1430.0
+dimitra,dmtr,Dimitra,1433.0
+flork-3,flork,FLORK,1434.0
+treehouse,tree,Treehouse,1436.0
+longbow-2,bow,Longbow,1435.0
+basestonk,bstonk,BaseStonk,1437.0
+onfa,oft,ONFA,1438.0
+konnect,kct,Konnect,1440.0
+bitrise-token,brise,Bitgert,1439.0
+anzens-usda,usda,Anzens USDA,1441.0
+xhype-2,xhype,xHYPE,1442.0
+midas-rockaway-market-neutral,mrox,Midas Rockaway Market Neutral,1443.0
+commonwealth-2,cwu,CommonWealth,1444.0
+soulpeg-usd,spusd,SoulPeg USD,1452.0
+asteroid-shiba,asteroid,Asteroid Shiba,1445.0
+mcoin1,mcoin,MCOIN,1446.0
+patrol-tao-com,sn81,grail,1447.0
+vertek,xrs,Xauras,1448.0
+nakamoto-games,naka,Nakamoto Games,1450.0
+gamercoin,ghx,GamerCoin,1449.0
+aiusd,aiusd,AIUSD,1451.0
+sosana,sosana,SOSANA,1453.0
+liquid-euro,weeur,Liquid Euro,1454.0
+unicorn-fart-dust,ufd,Unicorn Fart Dust,1455.0
+omisego,omg,OMG Network,1456.0
+eth-strategy,strat,ETH Strategy,1468.0
+broadcom-bstocks-tokenized-stock,avgob,Broadcom (bStocks Tokenized Stock),1457.0
+altura-2,avlt,Altura Vault Tokens,1458.0
+bugscoin,bgsc,BugsCoin,1459.0
+webgenieai,sn54,WebGenieAI,1460.0
+reppo,reppo,REPPO,1461.0
+spacex-backpack-securities,spcx,SpaceX (Backpack Securities),1463.0
+pitbull,pit,Pitbull,1462.0
+punkstrategy,pnkstr,PunkStrategy,1464.0
+coinmetro,xcm,Coinmetro,1289.0
+broccoli-3,broccoli,Broccoli,1465.0
+catecoin,cate,CateCoin,1493.0
+alpha-fi,alpha,Alpha Fi,1466.0
+neuralai,neural,NEURALAI,1467.0
+mansory-token,mnsry,Mansory Token,1468.0
+baby-shiba-inu,babyshibainu,Baby Shiba Inu,1469.0
+omega-labs,sn24,OMEGA Labs,1470.0
+eesee,ese,Eesee,1471.0
+nebius-bstocks-tokenized-stock,nbisb,Nebius (bStocks Tokenized Stock),1472.0
+kyrgyz-som-stablecoin,kgst,Kyrgyz Som Stablecoin,1474.0
+turtle-4,turtle,Turtle,1473.0
+hosky,hosky,Hosky,1475.0
+wen-4,wen,Wen,1476.0
+hemi,hemi,Hemi,1480.0
+strata-senior-usdat,srusdat,Strata Senior USDat,1477.0
+daddy-tate,daddy,Daddy Tate,1478.0
+hyperion-2,rion,Hyperion,1481.0
+neon-exchange,nex,Nash,1503.0
+amo,amo,AMO Coin,1482.0
+coq-inu,coq,Coq Inu,1479.0
+brica,brx,BRICA,1483.0
+district0x,dnt,district0x,1484.0
+dialectic-eth-vault,deth,Dialectic ETH Vault,1503.0
+taiwan-semiconductor-manufacturing-ondo-tokenized-stock,tsmon,Taiwan Semiconductor Manufacturing (Ondo Tokenized Stock),1485.0
+fbomb,fbomb,Fantom Bomb,1486.0
+mitosis,mito,Mitosis,1487.0
+dextools,dext,DexTools,1488.0
+iron-fish,iron,Iron Fish,1489.0
+alephium,alph,Alephium,1490.0
+rxr-coin,rxrc,RXR Coin,1368.0
+tap,xtp,XTP,1491.0
+inverse-finance,inv,Inverse Finance,1492.0
+sandisk-ondo-tokenized,sndkon,SanDisk (Ondo Tokenized),1493.0
+send-token-2,send,Send,1494.0
+cupsey-2,cupsey,CUPSEY,1496.0
+mil,mil,MIL,1495.0
+upland,sparklet,Upland,1497.0
+origin-dollar,ousd,Origin Dollar,1498.0
+milady-cult-coin,cult,Milady Cult Coin,1499.0
+polkastarter,pols,Polkastarter,1500.0
+evernode,evr,Evernode,1501.0
+loopin-network,loopin,LooPIN Network,1502.0
+alpha-trader-exchange-atx,sn63,Quantum Innovate,1503.0
+world-water-reserve,wwr,World Water Reserve,1504.0
+vnx-gold,vnxau,VNX Gold,1505.0
+gamestop-bstocks-tokenized-stock,gmeb,GameStop (bStocks Tokenized Stock),1506.0
+milady-meme-coin,ladys,Milady Meme Coin,1508.0
+gyen,gyen,GYEN,1509.0
+landwolf-0x67,wolf,LandWolf,1507.0
+quickswap,quick,Quickswap,1510.0
+stablr-usd,usdr,StablR USD,1514.0
+amazon-ondo-tokenized-stock,amznon,Amazon (Ondo Tokenized Stock),1511.0
+tethereum-3,t99,Tethereum,1512.0
+spiko-digital-assets-cash-carry-fund,spkcc,Spiko Digital Assets Cash & Carry Fund,1513.0
+octaspace,octa,OctaSpace,1514.0
+kan,kan,KAN,1515.0
+lcx,lcx,LCX,1516.0
+apeonfone,fone,apeonfone,1517.0
+usdx-money-usdx,usdx,Stables Labs USDX,1512.0
+lukso-token-2,lyx,LUKSO,1518.0
+keyboard-cat-base,keycat,Keyboard Cat (Base),1519.0
+steem-dollars,sbd,Steem Dollars,1520.0
+phnix,phnix,PHNIX,1521.0
+xdog,xdog,XDOG,1522.0
+world-assets,inc,WorldAssets,1523.0
+pepecat-2,pepecat,PEPECAT,1524.0
+natix-network,natix,NATIX Network,1525.0
+minswap,min,Minswap,1526.0
+bobo-coin-2,bobo,Bobo,1527.0
+insure,sure,inSure DeFi,1531.0
+gamecow,gcow,GameCow,1528.0
+novatti-australian-digital-dollar,audd,Australian Digital Dollar,1529.0
+steam22,stk,Stoked,1530.0
+anyspend,any,Anyspend,1531.0
+doginme,doginme,doginme,1532.0
+pair,pair,PAIR,1533.0
+klever,klv,Klever,1534.0
+gaib,gaib,GAIB,1535.0
+games-for-a-living,gfal,Games for a Living,1536.0
+kekius-maximus,kekius,Kekius Maximus,1537.0
+bidz-coin,bidz,BIDZ Coin,1544.0
+proshares-ultrapro-qqq-ondo-tokenized,tqqqon,ProShares UltraPro QQQ (Ondo Tokenized),1538.0
+the-doge-nft,dog,Own The Doge,1539.0
+axcnh,axcnh,AxCNH,1540.0
+epic-cash,epic,Epic Private Internet Cash,1541.0
+vestra-dao,vstr,Vestra DAO,1542.0
+synth-2,sn50,Synth,1543.0
+ika,ika,Ika,1544.0
+grove-2,grove,Grove,1545.0
+rhea-2,rhea,RHEA,1546.0
+galeon,galeon,Galeon,1547.0
+pinlink,pin,PinLink,1548.0
+dao-maker,dao,DAO Maker,1550.0
+neon,neon,Neon,1549.0
+nacho-the-kat,nacho,Nacho the Kat,1551.0
+myshell,shell,MyShell,1552.0
+payai-network-2,payai,PayAI Network,1553.0
+pangolin,png,Pangolin,1554.0
+helium-mobile,mobile,Helium Mobile,1555.0
+coinmarketcap-20-index-dtf,cmc20,CoinMarketCap 20 Index DTF,1556.0
+stairway-to-gold,gold,Stairway to gold,1557.0
+vitadao,vita,VitaDAO,1558.0
+radio-caca,raca,Radio Caca,1559.0
+cycle-2,cyc,Cycle Network,1560.0
+yolo-2,yolo,YOLO,1561.0
+hashflow,hft,Hashflow,1563.0
+quantoz-usdq,usdq,Quantoz USDQ,1562.0
+bountymarketcap,bmc,BountyMarketCap,1566.0
+layer3,l3,Layer3,1565.0
+purple-pepe,purpe,PURPLE PEPE,1564.0
+wisdomtree-floating-rate-treasury-fund-dinari-tokenized-etf,usfr,WisdomTree Floating Rate Treasury Fund (Dinari Tokenized ETF),1577.0
+dydx,ethdydx,dYdX,1567.0
+level-114,sn114,Level 114,1568.0
+gridcoin-research,grc,Gridcoin,1569.0
+ishares-russell-2000-value-etf-ondo-tokenized-etf,iwnon,iShares Russell 2000 Value ETF (Ondo Tokenized ETF),1573.0
+apu-s-club,apu,Apu Apustaja,1570.0
+illuminaticoin,nati,IlluminatiCoin,1571.0
+cosanta,cosa,Cosanta,1572.0
+zoid-pay,zpay,ZoidPay,1571.0
+arowana,arw,Arowana,1573.0
+micron-technology-backpack-securities,mu,Micron Technology (Backpack Securities),1574.0
+goldzip-gold,xgz,GoldZip Gold,1575.0
+augur-2,repv2_yes_1,AUGUR,1576.0
+yieldnest-rwa-max,ynrwax,YieldNest RWA MAX,1579.0
+draggable-aktionariat-ag,daks,Draggable Aktionariat AG,1584.0
+earn,earn,EARN,1577.0
+broadcom-xstock,avgox,Broadcom xStock,1578.0
+scor,scor,Scor,1579.0
+manyu-2,manyu,Manyu,1580.0
+crow-with-knife,caw,crow with knife,1582.0
+particle-network,parti,Particle Network,1583.0
+memestock-3,memestock,memestock,1581.0
+apple-robinhood-tokenized-stock,aapl,Apple • Robinhood Token,1584.0
+nimiq-2,nim,Nimiq,1585.0
+alphabet-class-a-robinhood-tokenized-stock,googl,Alphabet Class A • Robinhood Token,1586.0
+alchemix,alcx,Alchemix,1587.0
+spacechain-erc-20,spc,SpaceChain (ERC-20),1588.0
+paal-ai,paal,PAAL AI,1589.0
+defipulse-index,dpi,DeFi Pulse Index,1591.0
+kryll,krl,KRYLL,1590.0
+graphite,sn43,Graphite,1592.0
+metahero,hero,Metahero,1593.0
+pulsechain-tiger,ptiger,PulseChain Tiger,1594.0
+oobit-2,oob,Oobit,1595.0
+dolz-io,dolz,DOLZ.io,1596.0
+divo,dvo,Divo,1597.0
+usp-yield-optimized-stablecoin,usp,USP Yield Optimized Stablecoin,1598.0
+joe-coin,joe,Joe Coin,1600.0
+particl,part,Particl,1601.0
+green,green,Green,1602.0
+thetadrop,tdrop,ThetaDrop,1603.0
+bluefin,blue,Bluefin,1599.0
+aria-ai,aria,Aria.AI,1604.0
+liqwid-finance,lq,Liqwid Finance,1605.0
+sportstensor,sn41,Sportstensor,1606.0
+santiment-network-token,san,Santiment Network,1622.0
+compute-horde,sn12,Compute Horde,1607.0
+agoric,bld,Agoric,1609.0
+quantoz-eurq,eurq,Quantoz EURQ,1608.0
+golden-dragon,gd,Golden Dragon,1600.0
+dot,dot,Dot,1610.0
+litentry,lit,Litentry,1611.0
+leverup,lv,LeverUp,1610.0
+elevatefi,efi,ElevateFi,1612.0
+hodl-etf,sn118,Ditto,1613.0
+paragonsdao,pdt,ParagonsDAO,1614.0
+midas-basis-trading-token,mbasis,Midas mBASIS,1615.0
+blackcoin-3,blackcoin,BLACKCOIN,1616.0
+fc-porto,porto,FC Porto,1617.0
+teddy-bear,bear,TEDDY BEAR,1618.0
+ekubo-protocol,ekubo,Ekubo Protocol,1619.0
+giggle-mascot,max,Giggle Mascot,1620.0
+puff-the-dragon,puff,Puff The Dragon,1621.0
+parcl,prcl,Parcl,1622.0
+kora,sn71,Leadpoet,1623.0
+splendor,spld,Splendor,1624.0
+mahina-token,mhna,Mahina Token,1625.0
+vidaio,sn85,Vidaio,1626.0
+vultisig,vult,Vultisig,1627.0
+spacex-prestocks-2,spacex,SpaceX PreStocks,1628.0
+bitsec-ai,sn60,Bitsec.ai,1630.0
+zephyr-protocol,zeph,Zephyr Protocol,1629.0
+clash-of-lilliput,col,Clash of Lilliput,1631.0
+bitrue-token,btr,Bitrue Coin,1632.0
+pact-2,pact,PACT,1633.0
+zeus-5,sn18,Zeus,1634.0
+vnx-swiss-franc,vchf,VNX Swiss Franc,1635.0
+hybridge,bridge,HyBridge,1644.0
+neural3d,sn46,Zipcode,1636.0
+switch-token,switch,Switch Token,1637.0
+rize,rize,RIZE,1638.0
+readyai,sn33,ReadyAI,1639.0
+most-wanted-2,most,Most Wanted,1640.0
+mind-network,fhe,Mind Network,1642.0
+xpla,conx,CONX,1641.0
+neuberger-securitize-high-income-tokenized-fund,hinc,Neuberger Securitize High Income Tokenized Fund,1643.0
+manchester-city-fan-token,city,Manchester City Fan Token,1645.0
+juventus-fan-token,juv,Juventus Fan Token,1644.0
+game-by-virtuals,game,GAME by Virtuals,1646.0
+beatswap,btx,Beatswap,1647.0
+ishares-0-3-month-treasury-bond-etf-robinhood-tokenized-stock,sgov,iShares 0-3 Month Treasury Bond ETF • Robinhood Token,1648.0
+splinterlands,sps,Splintershards,1649.0
+squidgrow-2,sqgrow,SquidGrow,1651.0
+reactive-network,react,Reactive Network,1650.0
+nextplace,sn48,Quantum Compute,1652.0
+rayls,rls,Rayls,1653.0
+altdeer,alt,ALTDeer,1654.0
+cea-industries,bnc4,Cea Industries,1655.0
+robinhood-markets-ondo-tokenized-stock,hoodon,Robinhood Markets (Ondo Tokenized Stock),1656.0
+beefy-finance,bifi,Beefy,1657.0
+eli-lilly-ondo-tokenized-stock,llyon,Eli Lilly (Ondo Tokenized Stock),1658.0
+cygnus-2,cgn,Cygnus,1659.0
+oracle-ondo-tokenized-stock,orclon,Oracle (Ondo Tokenized Stock),1660.0
+nkn,nkn,NKN,1661.0
+resistance-dog,redo,Resistance Dog,1662.0
+tokemak-2,auto,Auto Finance,1663.0
+cf-large-cap-index,lcap,CF Large Cap Index,1664.0
+lazio-fan-token,lazio,Lazio Fan Token,1665.0
+citrea-usd,ctusd,Citrea USD,1667.0
+fxn-token,fxn,f(x) Protocol,1666.0
+vebetterdao,b3tr,VeBetterDAO,1668.0
+propchain,propc,Propchain,1669.0
+the-arena,arena,The Arena,1670.0
+luna-by-virtuals,luna,Luna by Virtuals,1671.0
+p2p-protocol,p2p,P2P Protocol,1672.0
+rain-coin,rain,Rain Coin,1676.0
+oneoneone,sn111,Oneoneone,1674.0
+stakestone-berachain-vault-token,berastone,StakeStone Berachain Vault Token,1679.0
+bucket-shop,bucket,Bucket Shop,1675.0
+ampleforth-governance-token,forth,Ampleforth Governance,1673.0
+matrixdock-silver,xagm,Matrixdock Silver,1677.0
+ref-finance,ref,Ref Finance,1678.0
+altura,alu,Altura,1679.0
+nuance-2,sn23,Nuance,1680.0
+nectar,nect,Nectar,1682.0
+alon,alon,Alon,1683.0
+nomina,nom,Nomina,1684.0
+wayfinder,prompt,Wayfinder,1681.0
+codec-flow,codec,Codec Flow,1685.0
+liquidlaunch,liqd,LiquidLaunch,1686.0
+verasity,vra,Verasity,1687.0
+bitmine-immersion-technologies-bstocks-tokenized-stock,bmnrb,BitMine Immersion Technologies (bStocks Tokenized Stock),1688.0
+earthmeta-2,emt,EarthMeta,1689.0
+farcana,far,FAR Labs,1690.0
+bluzelle,blz,Bluzelle,1691.0
+axondao-governance-token-2,axgt,AxonDAO Governance Token,1692.0
+perpetual-bitcoin,pb,Perpetual Bitcoin,1696.0
+lumi-credits,lumi,LUMI Credits,1693.0
+enosys-loans-cdp,cdp,Enosys Loans CDP,1694.0
+robinhood-bstocks-tokenized-stock,hoodb,Robinhood (bStocks Tokenized Stock),1695.0
+zer0zer0,00,00 Token,1696.0
+baby-shark-universe,bsu,Baby Shark Universe,1697.0
+sherwood-protocol,wood,Sherwood Protocol,1698.0
+nem,xem,NEM,1699.0
+amc-entertainment-holdings-inc-robinhood-token,amc,"AMC Entertainment Holdings, Inc. • Robinhood Token",1701.0
+bitshares,bts,BitShares,1700.0
+robin-the-frog,robin,Robin the Frog,1702.0
+tesla-robinhood-tokenized-stock,tsla,Tesla • Robinhood Token,1703.0
+mamo,mamo,Mamo,1704.0
+amd-xstock,amdx,AMD xStock,1706.0
+pussy-cat-club,pcc,Pussy Cat Club,1705.0
+invesco-qqq-robinhood-tokenized-stock,qqq,Invesco QQQ • Robinhood Token,1707.0
+nebius-group-ondo-tokenized,nbison,Nebius Group (Ondo Tokenized),1708.0
+artdra-coin,artdra,ARTDRA Coin,1589.0
+gold-dao,goldao,Gold DAO,1709.0
+termmax,tmx,TermMax,1713.0
+aergo-2,hpp,House Party Protocol,1710.0
+best,best,BEST,1711.0
+characterx,cai,CharacterX,1712.0
+otc,otc,OTC,1715.0
+fwog,fwog,Fwog,1716.0
+open-loot,ol,OPENLOOT,1717.0
+broadcom-ondo-tokenized-stock,avgoon,Broadcom (Ondo Tokenized Stock),1718.0
+startale-usd,usdsc,Startale USD,1719.0
+lienfi,lfi,LienFi,1720.0
+destra-network,dsync,Destra Network,1721.0
+this-is-not-a-website,website,this is not a website,1722.0
+tangent-usg,usg,Tangent USG,1723.0
+surplus-intelligence,surplus,Surplus intelligence,1724.0
+agent-hustle-2,emblem,Emblem Vault,1725.0
+zarp-stablecoin,zarp,ZARP Stablecoin,1726.0
+byteball,gbyte,Obyte,1727.0
+applied-optoelectronics-bstocks-tokenized-stock,aaoib,Applied Optoelectronics (bStocks Tokenized Stock),1728.0
+tokenized-bny-mellon-global-short-dated-high-yield-bond-fund,hybond,Tokenized BNY Mellon Global Short-Dated High Yield Bond Fund,1729.0
+private-aviation-finance-token,cino,Private Aviation Finance Token,1730.0
+jager-hunter,jager,Jager Hunter,1731.0
+tradr-2x-long-sndk-etf-bstocks-tokenized-stock,snxxb,Tradr 2X Long SNDK ETF (bStocks Tokenized Stock),1732.0
+melon,mln,Enzyme,1734.0
+masx-ai,sn104,Masx.ai,1733.0
+roam-token,roam,ROAM Token,1735.0
+cratos,crts,Cratos,1736.0
+tokenforge,tkfg,tokenforge,1737.0
+omega-any-to-any,sn21,SN21 AdTAO,1738.0
+smardex,sdex,SMARDEX,1739.0
+brain,sn90,Brain,1740.0
+bettensor,sn30,Bettensor,1741.0
+cryptocurrency-coin,crypto,Cryptocurrency Coin,1742.0
+dowge,dji6930,DOWGE,1743.0
+syndicate-3,synd,Syndicate,1714.0
+grok-2,grok,Grok,1745.0
+jobcoin-2,jobcoin,JOBCOIN,1746.0
+ket-3,$ket,Ket,1744.0
+solcex,solcex,SolCex,1747.0
+hyperlend,hpl,HyperLend,1749.0
+bytomdao,btm,BytomDAO,1749.0
+unibright,ubt,Unibright,1748.0
+hamilton-lane-senior-credit-opportunities-securitize-fund,hlscope,Hamilton Lane Senior Credit Opportunities Securitize Fund,1750.0
+ramses,ram,Ramses,1751.0
+clawpump-tech,claw,clawpump.tech,1752.0
+rch-token,rch,RCH Token,1753.0
+distributed-training,sn38,Distributed Training,1754.0
+checkmate-2,check,Checkmate,1755.0
+minutes-network-token,mntx,Minutes Network Token,1757.0
+minto,btcmt,Minto,1756.0
+infinity-rising,rise,Infinity Rising,1758.0
+pepper,pepper,PEPPER,1759.0
+partisia-blockchain,mpc,Partisia Blockchain,1762.0
+b-money-2,b-money,b-money,1761.0
+route-2,route,Route,1781.0
+spacem-token,spcm,SPACEM WORLD,1760.0
+pingo,pingo,PinGo,1763.0
+mori-coin,mori,MORI COIN,1764.0
+scroll,scr,Scroll,1765.0
+projectvex,vex,ProjectVex,1766.0
+spectre-ai,spectre,Spectre AI,1767.0
+staking-2,sn88,Sταking,1768.0
+trustswap,swap,TrustSwap,1769.0
+polyhedra-network,zkj,Polyhedra Network,1770.0
+toescoin,toes,TOESCOIN,1772.0
+math,math,MATH,1771.0
+alibaba-bstocks-tokenized-stock,babab,Alibaba (bStocks Tokenized Stock),1773.0
+ca-htb,ca,Coupon Assets,1774.0
+itsai,sn32,ItsAI,1775.0
+army-3,army,XRP ARMY,1776.0
+idia,idia,Impossible Finance Launchpad,1777.0
+sillynubcat,nub,nubcat,1780.0
+solcasino-token,scs,Solcasino Token,1778.0
+buying,buy,Buying.com,1779.0
+nexora,nex,Nexora,1782.0
+giveback,gback,GIVEBACK,1783.0
+toby-toadgod,toby,Toby ToadGod,1784.0
+winternomics-tv,wntv,Winternomics TV,1785.0
+bitcoin-gold,btg,Bitcoin Gold,1684.0
+elephant-money-trunk,trunk,Elephant Money (TRUNK),1786.0
+coca-cola-ondo-tokenized-stock,koon,Coca-Cola (Ondo Tokenized Stock),1787.0
+pundi-aifx,pundiai,Pundi AI,1788.0
+jimothy-the-raccoon,jimothy,Jimothy The Raccoon,1789.0
+nomu,nomu,Nomu,1790.0
+afreum,afr,Afreum,1791.0
+leveraged-cat,levercat,Leveraged Cat,1792.0
+sweatcoin,sweat,SWEAT,1793.0
+dimo,dimo,DIMO,1794.0
+impt,impt,IMPT,1795.0
+metronome,met,Metronome,1796.0
+altcoinist-token,altt,Altcoinist Token,1798.0
+rss3,rss3,RSS3,1797.0
+unstable-coin,usduc,Unstable Coin,1799.0
+camp-network,camp,Camp Network,1801.0
+genesisl1,l1,GenesisL1,1800.0
+harvest-finance,farm,Harvest Finance,1802.0
+diamond,dmd,Diamond,1803.0
+feisty-doge-nft,nfd,Feisty Doge NFT,1750.0
+flying-tulip-usd,ftusd,Flying Tulip USD,1804.0
+djed,djed,Djed,1805.0
+puss,puss,Puss,1807.0
+towns,towns,Towns,1806.0
+ready,ready,Ready Cards,1808.0
+populous,ppt,Populous,1809.0
+netx,netx,NetX,1810.0
+sperax,spa,Sperax,1811.0
+lockheed-ondo-tokenized-stock,lmton,Lockheed (Ondo Tokenized Stock),1812.0
+oly-2,oly,OLY,1813.0
+arsenal-fan-token,afc,Arsenal Fan Token,1814.0
+everybody,hold,Everybody,1815.0
+shapeshift-fox-token,fox,ShapeShift FOX,1816.0
+tqqq-xstock,tqqqx,TQQQ xStock,1815.0
+tsmc-bstocks-tokenized-stock,tsmb,TSMC (bStocks Tokenized Stock),1817.0
+tokocrypto,tko,Tokocrypto,1818.0
+lofi-2,lofi,LOFI,1819.0
+haedal,haedal,Haedal Protocol,1820.0
+wrapped-ayeayecoin,waac,Wrapped AyeAyeCoin,1817.0
+win-3,win,Win,1821.0
+strategy-inc-robinhood-tokenized-stock,mstr,Strategy Inc. • Robinhood Token,1822.0
+aspecta,asp,Aspecta,1823.0
+suilend,send,Suilend,1824.0
+coinzoom-token,zoom,CoinZoom,1825.0
+ac-milan-fan-token,acm,AC Milan Fan Token,1826.0
+owb,owb,OWB,1827.0
+pixels,pixel,Pixels,1828.0
+subvortex,sn7,SubVortex,1829.0
+nearkat-2,nearkat,NearKat,1830.0
+amaterasu-omikami,omikami,AMATERASU OMIKAMI,1831.0
+hana-network,hana,Hana Network,1833.0
+alltoscan,ats,Alltoscan,1832.0
+wingbits,wings,Wingbits,1834.0
+naws-ai,naws,NAWS.AI,1835.0
+bonsai-coin,bonsaicoin,Bonsai Coin,1856.0
+gittensor,sn74,Gittensor,1836.0
+catcoin-6,cat,Catcoin,1837.0
+tsmc-xstock,tsmx,TSMC xStock,1838.0
+swisscheese,swch,SwissCheese,1839.0
+wigl,wigl,Wigl,1840.0
+aos-2,sn79,τaos,1841.0
+alpine-f1-team-fan-token,alpine,Alpine F1 Team Fan Token,1842.0
+tars-protocol,tai,TARS AI,1843.0
+finetuning,sn37,Aurelius,1844.0
+orta-chain,orta,Orta Chain,1845.0
+galaxia,gxa,Galaxia,1847.0
+swell-network,swell,Swell,1846.0
+hims-hers-health-inc-robinhood-token,hims,"Hims & Hers Health, Inc. • Robinhood Token",1848.0
+bitcoin-bull-2,btcbull,Bitcoin Bull,1849.0
+cumulus-encrypted-storage-system,cess,CESS Network,1850.0
+mileverse,mvc,MileVerse,1851.0
+chonketha-the-wet-beaver,chonketha,Chonketha the Wet Beaver,1852.0
+hu-die-ren-sheng,蝴蝶人生,蝴蝶人生,1853.0
+that,that,THAT,1854.0
+omron,sn2,Omron,1855.0
+polytrade,trade,Polytrade,1856.0
+rainbow-3-2,rnbw,Rainbow,1857.0
+spdr-gold-shares-ondo-tokenized,gldon,SPDR Gold Shares (Ondo Tokenized),1858.0
+gvnr,gvnr,GVNR,1840.0
+seth,seth,sETH,1628.0
+nereus-token,nrs,Nereus,1704.0
+gmcoin-2,gmcoin,GMCoin,1859.0
+fei-usd,fei,Fei USD,1860.0
+arm-holdings-plc-ondo-tokenized-stock,armon,Arm Holdings plc (Ondo Tokenized Stock),1861.0
+vertcoin,vtc,Vertcoin,1863.0
+serum,srm,Serum,1862.0
+desearch,sn22,Desearch,1864.0
+marvin-3,marvin,Marvin,1865.0
+everscale,ever,Everscale,1866.0
+pht-stablecoin,pht,PHT Stablecoin,1710.0
+gamestop-robinhood-tokenized-stock,gme,GameStop • Robinhood Token,1867.0
+tectonic,tonic,Tectonic,1868.0
+nvidia-coinbase-tokenized-stock,nvdac,NVIDIA (Coinbase Tokenized Stock),1869.0
+dingocoin,dingo,Dingocoin,1870.0
+axt-bstocks-tokenized-stock,axtib,AXT (bStocks Tokenized Stock),1871.0
+qualcomm-ondo-tokenized-stock,qcomon,Qualcomm (Ondo Tokenized Stock),1872.0
+forte-aud,audf,Forte AUD,1873.0
+customer-service-xiao-he,客服小何,客服小何 (Customer Service Xiao He),1874.0
+koinos,koin,Koinos,
+coinweb,cweb,Coinweb,1875.0
+aleph,aleph,Aleph Cloud,1876.0
+v-i-t-r-i-o-l-network,vit,V.I.T.R.I.O.L. Network,1877.0
+monbasecoin,mbc,MonbaseCoin,1878.0
+dogeking,dogeking,DogeKing,1879.0
+goated-2,goated,GOATED,1760.0
+laika-coin,laika,LAIKA Coin,1880.0
+coherent-bstocks-tokenized-stock,cohrb,Coherent (bStocks Tokenized Stock),1881.0
+depinsim,esim,Depinsim,1882.0
+ampleforth,ampl,Ampleforth,1883.0
+coldint,sn29,Coldint,1884.0
+gearbox,gear,Gearbox,1885.0
+arrow-2,arrow,Arrow,1886.0
+agave-token,agve,Agave,1887.0
+wolfsafepoorpeople,wspp,WolfSafePoorPeople,1888.0
+midas-msyrupusdp,msyrupusdp,Midas msyrupUSDp,1889.0
+advanced-micro-devices-bstocks-tokenized-stock,amdb,Advanced Micro Devices (bStocks Tokenized Stock),1890.0
+piteas,pts,Piteas,1891.0
+catgpt-3,catgpt,CATGPT,1898.0
+asml-bstocks-tokenized-stock,asmlb,ASML (bStocks Tokenized Stock),1892.0
+cult-dao,cult,Cult DAO,1893.0
+ast-spacemobile-ondo-tokenized,astson,AST SpaceMobile (Ondo Tokenized),1894.0
+cronus-2,cronus,CRONUS,1895.0
+zclassic,zcl,Zclassic,1896.0
+south-korea-bull-3x-etf-bstocks-tokenized-stock,korub,South Korea Bull 3X ETF (bStocks Tokenized Stock),1897.0
+nanobyte,nbt,NanoByte,1899.0
+alexgo,alex,ALEX Lab,1900.0
+observer-coin,obsr,Observer,1901.0
+mysterium,myst,Mysterium,1902.0
+avici,avici,Avici,1903.0
+fefer-2,fefer,FEFER,1904.0
+snap-kero,$nap,SNAP,1905.0
+resupply,rsup,Resupply,1906.0
+aavegotchi,ghst,Aavegotchi,1907.0
+precog,sn55,Precog,1908.0
+star-atlas,atlas,Star Atlas,1909.0
+polariscloud-ai,sn49,PolarisCloud.ai,1910.0
+sompi,sompi,Sompi,1911.0
+aragon,ant,Aragon,1912.0
+republic-protocol,ren,Ren,1913.0
+silencio,slc,Silencio,1914.0
+minima,minima,Minima,1915.0
+r0ar-token,1r0r,R0AR Token,1916.0
+asml-holding-nv-ondo-tokenized-stock,asmlon,ASML Holding NV (Ondo Tokenized Stock),1917.0
+comtech-gold,cgo,Comtech Gold,1918.0
+infinitehash,sn89,InfiniteHash,1919.0
+platon-network,lat,PlatON Network,1920.0
+genesysgo-shadow,shdw,Shadow Token,1921.0
+feg-token-2,feg,FEED EVERY GORILLA,1922.0
+spacehood,spacehood,SPACEHOOD,1924.0
+unicorn-3-2,uwu,Unicorn,1925.0
+pibble,pib,Pibble,1926.0
+doubt,doubt,DOUBT,1927.0
+ascend-3,ascend,Ascend,1928.0
+anita,anita,ANITA,1929.0
+gme,gme,GME,1923.0
+cryptex-finance,ctx,Cryptex Finance,1930.0
+thetanuts-finance,nuts,Thetanuts Finance,1931.0
+rigoblock,grg,RigoBlock,1932.0
+evaa-protocol,evaa,EVAA Protocol,1933.0
+rune-pups,pups,Pups (Bitcoin),1934.0
+robincat,robincat,ROBINCAT,1937.0
+nav-coin,nav,Navio,1935.0
+qup-coin,qup,QUP Coin,1936.0
+netmind-token,nmt,NetMind Token,1938.0
+orbiter-finance,obt,Orbiter Finance,1939.0
+ski-mask-dog,ski,Ski Mask Dog,1940.0
+netnet,net,NetNet,1941.0
+boson-protocol,boson,Boson,1942.0
+connect-financial,cnfi,Connect Financial,1946.0
+merit-2,sn73,Merit,1943.0
+zircuit,zrc,Zircuit,1944.0
+chain-games,chain,Chain Games,1945.0
+wealth-and-prosperity-2,富贵,富贵 (Wealth and Prosperity),1947.0
+marina-protocol,bay,Marina Protocol,1946.0
+suku,suku,SUKU,1948.0
+o-intelligence-coin,oi,O Intelligence Coin,1949.0
+xeriscoin,xeris,XerisCoin,1950.0
+football-fun,fun,Sport.fun,1951.0
+space-exploration-technologies-dinari-tokenized-stock,spcx,Space Exploration Technologies (Dinari Tokenized Stock),1952.0
+last-usd,usdxl,Last USD,1953.0
+wojak-6,wojak,Wojak,1955.0
+bellscoin,bells,Bellscoin,1956.0
+altseason,altszn,ALTSEASON,1954.0
+jeff-3,jeff,Jeff,1957.0
+openai-prestocks-2,openai,OpenAI PreStocks,1958.0
+thunder-token,tt,ThunderCore,1959.0
+shi-gong-mao,sue,施工猫 (Construction Cat),1960.0
+the-digital-dinar,dinar,The Digital Dinar,1961.0
+amazon-robinhood-tokenized-stock,amzn,Amazon • Robinhood Token,1962.0
+kabosu,kabosu,Kabosu,1963.0
+book-of-ethereum,booe,Book of Ethereum,1964.0
+world3,wai,World3,1965.0
+phoenic-token,pnic,Phoenic Token,1966.0
+sundae-bar,sn121,Sundae_Bar,1967.0
+lynk-coin,lynk,LYNK,1968.0
+ajna-protocol,ajna,Ajna Protocol,1969.0
+down-to-finance,dtf,Down to Finance,1970.0
+michi,michi,michi,1972.0
+sundog,sundog,Sundog,1971.0
+hashpack,pack,HashPack,1973.0
+fakenews,sn66,FakeNews,1974.0
+yieldfi-vyusd,vyusd,YieldFi vyUSD,1975.0
+ancient8,a8,Ancient8,1976.0
+rocket-strategy,rkst,rocket strategy,1977.0
+purps,purps,Purps,1978.0
+suins-token,ns,SuiNS Token,1979.0
+mezo,mezo,MEZO,1980.0
+pfizer-ondo-tokenized-stock,pfeon,Pfizer (Ondo Tokenized Stock),1982.0
+ishares-core-s-p-midcap-etf-ondo-tokenized-etf,ijhon,iShares Core S&P MidCap ETF (Ondo Tokenized ETF),1985.0
+dollar-on-chain,doc,Dollar On Chain,1982.0
+tsuki,tsuki,Tsuki,1983.0
+nolus,nls,Nolus,1981.0
+what-the-hook,wth,what the hook?,1984.0
+direxion-mu-bull-2x-etf-bstocks-tokenized-stock,muub,Direxion MU Bull 2X ETF (bStocks Tokenized Stock),1985.0
+oracle-xstock,orclx,Oracle xStock,1986.0
+africarare,ubu,Africarare,1987.0
+evausdt,evausdt,evaUSDT,1988.0
+real-time-data-by-masa,sn42,Real-Time Data by Masa,1989.0
+genius-token,pock,Genius Token,1991.0
+sato-2,sato,Sato,1990.0
+league-of-traders,lot,League of Traders,1992.0
+uranotoken,urano,UranoToken,1993.0
+forest-protocol,forest,Forest Protocol,1994.0
+plume-usd,pusd,Plume USD,1995.0
+kirakuru,kra,KiraKuru,2007.0
+ramp,ramp,RAMP [OLD],1996.0
+hxro,hxro,HXRO,1997.0
+bfg-token,bfg,BFG Token,1998.0
+ishares-russell-2000-etf-ondo-tokenized-etf,iwmon,iShares Russell 2000 ETF (Ondo Tokenized ETF),2007.0
+dora-2,dora,DORA,1999.0
+asd,asd,AscendEx,1776.0
+snpad,snpad,SNPad,2000.0
+byteleap,sn128,ByteLeap,2001.0
+jpmorgan-chase-ondo-tokenized-stock,jpmon,JPMorgan Chase (Ondo Tokenized Stock),2002.0
+stability-world-ai,aiw,Stability World AI,2003.0
+ussi,ussi,USSI,2004.0
+ovr,ovr,Ovr,2005.0
+microsoft-robinhood-tokenized-stock,msft,Microsoft • Robinhood Token,2006.0
+gitlawb,gitlawb,Gitlawb,2007.0
+vooi,vooi,VOOI,2009.0
+buy-the-dip,dip,Buy the DIP,2010.0
+wexo,wexo,Wexo,2011.0
+bitmine-xstock,bmnrx,Bitmine xStock,2012.0
+mu-digital-aznd,aznd,Mu Digital AZND,1806.0
+step-app-fitfi,fitfi,Step App,1979.0
+palantir-technologies-ondo-tokenized-stock,pltron,Palantir Technologies (Ondo Tokenized Stock),2013.0
+chevron-ondo-tokenized-stock,cvxon,Chevron (Ondo Tokenized Stock),2014.0
+milk-money,mm,Milk Money,2015.0
+foxify,fox,Foxify,2008.0
+musd,musd,mStable USD,2016.0
+brl1,brl1,BRL1,2017.0
+shikelang,屎壳郎,屎壳郎 (Dung Beetle),2018.0
+tao-bot,taobot,tao.bot,2019.0
+powersnookercoin,psc,PowerSnookerCoin,2039.0
+nest-wisdomtree-vault,nwisdom,Nest WisdomTree Vault,2020.0
+zen-ai,zai,Zen AI,2021.0
+microsoft-bstocks-tokenized-stock,msftb,Microsoft (bStocks Tokenized Stock),2022.0
+tao-private-network,sn65,True Performance Network,2023.0
+cisco-systems-ondo-tokenized-stock,cscoon,Cisco Systems (Ondo Tokenized Stock),2024.0
+dominion-silver,silv,Dominion Silver,2025.0
+pain,pain,Pain,2026.0
+roaland-core,roa,ROACORE,2027.0
+suncontract,snc,SunContract,2028.0
+numinous,sn6,Numinous,2029.0
+session-token,sesh,Session Token,2030.0
+unilayer,layer,UniLayer,2031.0
+yee-token,yee,Yee Token,2035.0
+airian,air,AIRian,2033.0
+otomate,oto,Otomate,2032.0
+flayer,flay,Flayer,2034.0
+united-states-oil-fund-ondo-tokenized,usoon,United States Oil Fund (Ondo Tokenized),2036.0
+kori,kori,Kori,2037.0
+likecoin-2,like,LikeCoin,2042.0
+bloom-energy-bstocks-tokenized-stock,beb,Bloom Energy (bStocks Tokenized Stock),2038.0
+swe-rizzo,sn45,Talisman AI,2039.0
+uncommon-goods,uncommongoods,UNCOMMON•GOODS,2040.0
+ibs-2,ibs,IBS,2041.0
+cjournal-2,cjl,CJournal,2042.0
+edge,edge,Edge,2043.0
+luxxcoin,lux,Luxxcoin,2044.0
+radium,val,Validity,2045.0
+mt-pelerin-shares,mps,Mt Pelerin Shares,2046.0
+balanced-dollars,bnusd,Balanced Dollars,
+bitagent-rizzo,sn20,BitAgent - Rizzo,2047.0
+streamflow,stream,Streamflow,2048.0
+dither,dith,Dither,2049.0
+cerebras-bstocks-tokenized-stock,cbrsb,Cerebras (bStocks Tokenized Stock),2050.0
+not-pixel,px,Not Pixel,2051.0
+par-stablecoin,par,Parallel,2052.0
+8-bit-coin,coin,8-Bit Coin,2053.0
+star-atlas-dao,polis,Star Atlas DAO,2054.0
+hara-token,hart,Hara,2055.0
+fort-token,frt,FORT Token,2056.0
+qualcomm-bstocks-tokenized-stock,qcomb,Qualcomm (bStocks Tokenized Stock),2057.0
+kyo,kyo,Kyo,2060.0
+umbra,umbra,Umbra,2058.0
+kendu-inu,kendu,Kendu,2059.0
+mainframe,mft,Mainframe,2085.0
+aeternity,ae,Aeternity,2061.0
+touch-grass-2,grass,Touch Grass,2062.0
+ceek,ceek,CEEK Smart VR,2065.0
+frax-price-index-share,fpis,Frax Price Index Share,2062.0
+harmonix-finance,har,Harmonix Finance,2063.0
+streetvision-by-natix,sn72,StreetVision by NATIX,2064.0
+game-stop,gme,GME (Ethereum),2066.0
+kraq-xstock,kraqx,KRAQ xStock,2076.0
+perpetual-protocol,perp,Perpetual Protocol,2067.0
+rocket-lab-bstocks-tokenized-stock,rklbb,Rocket Lab (bStocks Tokenized Stock),2068.0
+avinoc,avinoc,AVINOC,2084.0
+ni-compute,sn27,NI Compute,2069.0
+central-african-republic-meme,car,Central African Republic Meme,2070.0
+somnium-space-cubes,cube,Somnium Space CUBEs,2071.0
+derivadao,ddx,DerivaDAO,2072.0
+limusd,limusd,limUSD,2073.0
+clover-finance,clv,Clover Finance,2074.0
+oracle-bstocks-tokenized-stock,orclb,Oracle (bStocks Tokenized Stock),2075.0
+procter-gamble-ondo-tokenized-stock,pgon,Procter & Gamble (Ondo Tokenized Stock),2076.0
+fulcrom,ful,Fulcrom,2077.0
+vexanium,vex,Vexanium,2078.0
+ibm-ondo-tokenized-stock,ibmon,IBM (Ondo Tokenized Stock),2079.0
+safemars,safemars,Safemars,2080.0
+xavier-renegade-angel,xavier,Xavier: Renegade Angel,2081.0
+4chan,4chan,4Chan,2082.0
+palo-alto-networks-ondo-tokenized-stock,panwon,Palo Alto Networks (Ondo Tokenized Stock),2084.0
+exchangecoin,excc,ExchangeCoin,2083.0
+arm-bstocks-tokenized-stock,armb,Arm (bStocks Tokenized Stock),2085.0
+unchain-x,unx,Unchain X,2086.0
+alibaba-ondo-tokenized-stock,babaon,Alibaba (Ondo Tokenized Stock),2087.0
+alphablockai,alpha,AlphaBlockAI,2088.0
+goldfinch,gfi,Goldfinch,2090.0
+inter-milan-fan-token,inter,Inter Milan Fan Token,2089.0
+swipe,sxp,Solar,2091.0
+daydreams,dreams,Daydreams,2092.0
+olivia-ai-2-0,$olivia2.0,Olivia AI 2.0,2093.0
+dialectic-usd-vault,dusd,Dialectic USD Vault,2112.0
+idos,idos,IdOS,2094.0
+dhedge-dao,dht,dHEDGE DAO,2096.0
+universe-3,universe,UNIVERSE,2097.0
+swarm-bzz,bzz,Swarm,2098.0
+solaxy,solx,Solaxy,2095.0
+dora-factory-2,dora,Dora Factory,2099.0
+macropod,audm,Macropod,2100.0
+peipeicoin-vip,peipei,PeiPei,2101.0
+leisuremeta,lm,LeisureMeta,2102.0
+hatom,htm,Hatom,2103.0
+stonks-4,stnk,Stonks,2104.0
+flurry,flurry,Flurry Finance,2107.0
+veno-usd,vusd,Veno USD,2106.0
+mancer,mancer,Mancer,2105.0
+slippy-2,slippy,SLIPPY,2108.0
+harmonic-agent,harmonic,Harmonic Agent,2121.0
+penpie,pnp,Penpie,2117.0
+evausdc,evausdc,evaUSDC,2109.0
+nest-2,nest,NEST,2110.0
+pip-3,pip,PiP,2112.0
+vibing-cat-coin,vibecoin,Vibing Cat Coin,2111.0
+hodl-7,hodl,HODL,2113.0
+liquify-dao,liquify,LiquiFy Dao,2114.0
+sharp-token,sharp,Sharp Token,1954.0
+my-lovely-coin,mlc,My Lovely Coin,2114.0
+united-founders-group,ufg,United Founders Group,2115.0
+trump-media-technology-group-corp-robinhood-token,djt,Trump Media & Technology Group Corp. • Robinhood Token,2116.0
+midas-mmev,mmev,Midas mMEV,2117.0
+motion-6,motion,MOTION,2118.0
+jetvoy,voy,Jetvoy,2122.0
+petrobras-ondo-tokenized-stock,pbron,Petrobras (Ondo Tokenized Stock),2119.0
+scamcoin,scam,Scamcoin,2120.0
+harmonic-agent,harmonic,Harmonic Agent,2121.0
+dexkit,kit,DexKit,2124.0
+winr-protocol,winr,WINR Protocol,2122.0
+trader,tde,Trader,2123.0
+iren-ondo-tokenized-stock,irenon,IREN (Ondo Tokenized Stock),2124.0
+monetrix-usd,usdm,Monetrix USD,2126.0
+electra-protocol,xep,Electra Protocol,2125.0
+gold-11,gold,GOLD,2127.0
+rainicorn,$raini,Raini,2128.0
+thought,tht,Thought,1914.0
+375ai,eat,375ai,2129.0
+fapcoin-4,fapcoin,Fapcoin,2130.0
+asia-coin,asia,Asia Coin,2131.0
+dextf,dextf,Memento,2132.0
+auditchain,audt,Auditchain,2133.0
+tectum,tet,Tectum,2134.0
+aussie-dollar-token,audx,Aussie Dollar Token,2138.0
+rift-ai,rift,RIFT AI,2133.0
+international-stable-currency,isc,International Stable Currency,2135.0
+backed-ibta-treasury-bond-1-3yr,bibta,Backed IBTA $ Treasury Bond 1-3yr,2136.0
+prism-assets,prism,Prism Assets,2137.0
+lifeform,lft,Lifeform,1902.0
+mcdonald-s-ondo-tokenized-stock,mcdon,McDonald's (Ondo Tokenized Stock),2138.0
+dayhyb,day,Dayhub,2157.0
+onefootball-club,ofc,OneFootball Credits,2139.0
+waveform-by-virtuals,wave,Waveform by Virtuals,2140.0
+mxnb,mxnb,MXNB,2141.0
+lit-protocol,litkey,Lit Protocol,2142.0
+vanar-chain-2,vanry,Vanar,2143.0
+multi-asset-investment-vehicle,maiv,Multi Asset Investment Vehicle,2145.0
+xiiid,xiiid,XIIID,2146.0
+allo,rwa,Allo,2147.0
+chaos-3,chaos,CHAOS 太初,2148.0
+freedom-of-money,freedom of money,Freedom of Money,2150.0
+omnipair,omfg,Omnipair,2151.0
+samoyedcoin,samo,Samoyedcoin,2149.0
+palantir-xstock,pltrx,Palantir xStock,2152.0
+the-toad-pepe,toad,The Toad Pepe,2153.0
+circle-internet-group-robinhood-tokenized-stock,crcl,Circle Internet Group • Robinhood Token,2154.0
+pocketcoin,pkoin,Pocketcoin,2155.0
+borgy,$borgy,BORGY,2156.0
+hawk-2,hawk,Hawk,2157.0
+nuvola-digital,nvl,Nuvola Digital,2158.0
+mythos,myth,Mythos,2159.0
+chill-house,chillhouse,Chill House,2161.0
+predictions,prdt,Predictions,2160.0
+the-bull,bull,The Bull,2163.0
+palm-ai,palm,PaLM AI,2162.0
+wrapped-fragsol,wfragsol,Wrapped fragSOL,2164.0
+icoin-2,icoin,iCoin,2165.0
+rezor,rzr,Rezor,2166.0
+twine,twine,TWINE,2144.0
+hipo-governance-token,hpo,Hipo Governance Token,2167.0
+applied-materials-bstocks-tokenized-stock,amatb,Applied Materials (bStocks Tokenized Stock),2168.0
+eli-lilly-robinhood-tokenized-stock,lly,Eli Lilly • Robinhood Token,2169.0
+stat,stat,STAT,2171.0
+creatorbid,bid,CreatorBid,2170.0
+book-2,stuff,STUFF.io,2172.0
+v2ex,v2ex,V2EX,2173.0
+zeus-network,zeus,Zeus Network,2174.0
+gems-vip,gems,Gems VIP,2175.0
+yummy,yummy,Yummy,2176.0
+ethichub,ethix,Ethix,2186.0
+metfi-2,metfi,MetFi,2177.0
+tensorprox,sn91,tensorprox,2178.0
+ai-network,ain,AI Network,2179.0
+delorean,dmc,DeLorean,2182.0
+ftmtoken,ftmx,FTMTOKEN,2180.0
+anoncoin-2,anoncoin,Anoncoin,2181.0
+aleph-zero,azero,Aleph Zero,2183.0
+teh-epik-duck,epik,TEH EPIK DUCK,2184.0
+mantis-2,sn123,Mantis,2185.0
+yelay,ylay,Yelay,2185.0
+balance-tokens,baln,Balanced,1944.0
+grin,grin,Grin,2187.0
+reserve-ai-photonics-dtf,photon,Reserve AI Photonics DTF,2180.0
+definity,defx,DeFinity,2188.0
+beta-finance,beta,Beta Finance,2189.0
+iaero,iaero,iAero,2188.0
+sleepless-ai,ai,Sleepless AI,2190.0
+aktionariat-switzerlend-ag-shares,lends,Aktionariat Switzerlend AG Shares,2208.0
+robinwifhat,wif,RobinWifHat,2191.0
+gamee,gmee,GAMEE,2192.0
+yooshi,yooshi,YooShi,2193.0
+french-connection-finance,zypto,Zypto Token,2194.0
+propbase,props,Propbase,2197.0
+meta-platforms-robinhood-tokenized-stock,meta,Meta Platforms • Robinhood Token,2195.0
+beam,beam,BEAM,2196.0
+energy-2,$nrg,Energy,2198.0
+reserve-ai-capacity-and-neocloud-dtf,neocloud,Reserve AI Capacity & Neocloud DTF,2194.0
+sentinel,p2p,Sentinel,2199.0
+creator-2,sn98,ForeverMoney,2200.0
+aladdin-dao,ald,Aladdin DAO,2201.0
+novo-nordisk-ondo-tokenized-stock,nvoon,Novo Nordisk (Ondo Tokenized Stock),2202.0
+rarible,rari,RARI,2203.0
+crypto-trading-fund,ctf,Crypto Trading Fund,2212.0
+jesus-coin,jesus,Jesus Coin,2204.0
+adappter-token,adp,Adappter,2205.0
+better-therapy,sn102,BetterTherapy,2206.0
+xfee,xfee,XFee,2207.0
+vara-network,vara,Vara Network,2208.0
+coinbase-robinhood-tokenized-stock,coin,Coinbase • Robinhood Token,2209.0
+oasys,oas,Oasys,2210.0
+rif-us-dollar,usdrif,RIF US Dollar,2217.0
+solana-name-service,sns,Solana Name Service,2211.0
+pipe-network,pipe,Pipe Network,2212.0
+pivx,pivx,PIVX,2213.0
+pundu,pundu,Pundu,2214.0
+mongol-nft,mnft,Mongol NFT,2215.0
+qubetics,tics,Qubetics,2216.0
+spiderswap,spdr,SpiderSwap,2217.0
+wozx,wozx,Efforce,2218.0
+m2-global-wealth-limited-mmx,mmx,MMX,2231.0
+liquidity-provisioning,sn106,Nodexo,2219.0
+quest-2,$quest,QUEST,2220.0
+pepsico-ondo-tokenized-stock,pepon,PepsiCo (Ondo Tokenized Stock),2221.0
+walmart-ondo-tokenized-stock,wmton,Walmart (Ondo Tokenized Stock),2223.0
+foxsy-ai,foxsy,Foxsy AI,2222.0
+prosper,pros,Prosper [OLD],2283.0
+8-ball,sn125,8 Ball,2225.0
+ethos-reserve-note,ern,Ethos Reserve Note,2226.0
+eth-2x-flexible-leverage-index,eth2x-fli,Index Coop - ETH 2x Flexible Leverage Index,2227.0
+vouch,vouch,Vouch,2228.0
+sealcoin,qait,QAIT,2229.0
+myro,myro,MYRO,2230.0
+best-patent-token,bpt,Best Patent Token,2231.0
+froth,froth,Froth,2233.0
+brn-metaverse,brn,BRN Metaverse,2232.0
+palantir-technologies-robinhood-tokenized-stock,pltr,Palantir Technologies • Robinhood Token,2234.0
+velas,vlx,Velas,2237.0
+apraemio,apra,Apraemio,2235.0
+aeon-2,aeon,aeon,2236.0
+herculis-gold-coin,xauh,Herculis Gold Coin,2238.0
+unisocks,socks,Unisocks,2245.0
+drop-2,drop,DROP,2239.0
+allindoge,allindoge,ALLINDOGE,2240.0
+alphabet-coinbase-tokenized-stock,googlc,Alphabet (Coinbase Tokenized Stock),2224.0
+karat-galaxy,karat,KARAT Galaxy,2241.0
+spectra-finance,spectra,Spectra,2243.0
+wirex,wxt,WXT Token,2242.0
+immunefi,imu,Immunefi,2246.0
+loaf-token,loaf,Loaf Token,2245.0
+nonkyotoprotocol,nkp,NonKyotoProtocol,2247.0
+barking-puppy,bp,Barking Puppy,2244.0
+edum,edum,EDUM,2250.0
+stakewise,swise,StakeWise,2249.0
+united-states-oil-fund-robinhood-tokenized-stock,uso,United States Oil Fund • Robinhood Token,2250.0
+pop-2,pop,Zypher Network,2248.0
+herbcoin,herb,HERBCOIN,2258.0
+lumiwave-protocol,lwp,LumiWave Protocol,2251.0
+zkverify,vfy,zkVerify,2252.0
+lush-ai,lush,LushAI,2257.0
+mizu-kappa,mizu,MIZU KAPPA,2253.0
+zrdao-token,zrt,ZRDAO Token,2267.0
+reality-metaverse,rmv,Reality Metaverse,2254.0
+fxarbusdtry,fxarbusdtry,FXArbUSDTRY,2255.0
+the-last-play,retire,The Last Play,2256.0
+rainmaker,rain,Rainmaker,2257.0
+slerf-2,slerf,Slerf,2258.0
+aptusd,aptusd,aptUSD,2270.0
+permission-coin,ask,Permission Coin,2264.0
+dream-machine-token,dmt,Dream Machine Token,2259.0
+gxchain,gxc,GXChain,1984.0
+rock-dao,rock,ROCK DAO,2260.0
+dragonchain,drgn,Dragonchain,2261.0
+silvertimes-token,stt,SilverTimes Token,2257.0
+ceramicliberty-com,cl8y,CeramicLiberty.com,2262.0
+crazybunny,crazybunny,CrazyBunny,2274.0
+real-4,real,Real,2277.0
+metaverse,metav,METAVERSE,2264.0
+toyota-ondo-tokenized-stock,tmon,Toyota (Ondo Tokenized Stock),2295.0
+pla-form,sn100,Plaτform,2265.0
+aventus,avt,Aventus,2266.0
+kin,kin,Kin,2263.0
+win-jie,win界,WIN界,2267.0
+anduril-prestocks-2,anduril,Anduril PreStocks,2268.0
+ghostwareos,ghost,GhostwareOS,2269.0
+hermetica-usdh,usdh,Hermetica USDh,2270.0
+botto,botto,Botto,2269.0
+prosper-2,pros,Prosper,2271.0
+galaxy-usdc-quality-base,baseeth:gusdcq,Galaxy USDC Quality (Base),2272.0
+lmao,lmao!,LMAO!,2273.0
+zenon-2,znn,Zenon,2296.0
+prxvt-by-virtuals,prxvt,PRXVT by Virtuals,2274.0
+gemhub,ghub,GemHUB,2275.0
+daddy-doge,daddydoge,Daddy Doge,2310.0
+starbucks-ondo-tokenized-stock,sbuxon,Starbucks (Ondo Tokenized Stock),2276.0
+karrat,karrat,Karrat,2277.0
+western-digital-bstocks-tokenized-stock,wdcb,Western Digital (bStocks Tokenized Stock),2278.0
+dragonswap,drg,DragonSwap,2279.0
+sibyl,sibyl,SIBYL,2280.0
+talex,x,TaleX,2281.0
+acet-token,act,Acet,2282.0
+credo-technology-bstocks-tokenized-stock,crdob,Credo Technology (bStocks Tokenized Stock),2283.0
+good-in-the-hood,good,Good In The Hood,2284.0
+sappy-seals-pixl,pixl,PIXL,2285.0
+vault-2,v,Vault,2286.0
+cod3x-usd,cdxusd,Cod3x USD,2287.0
+rei-network,rei,REI Network,2288.0
+copper-inu-2,copperinu,Copper (inu),2289.0
+etherfi-liquid-reserve,liquidreserve,EtherFi Liquid Reserve,2290.0
+midas-medge,medge,Midas mEDGE,2292.0
+reddit-robinhood-tokenized-stock,rddt,Reddit • Robinhood Token,2291.0
+permacast,pwt,Permacast,2293.0
+linqai,lnq,LinqAI,2294.0
+dregg,dregg,Dragon's Egg,2295.0
+laqira-protocol,lqr,Laqira Protocol,2296.0
+curve-fi-frax-usdc,crvfrax,Curve.fi FRAX/USDC,2297.0
+shido-2,shido,Shido Network,2298.0
+amiko,amiko,Amiko,2299.0
+asteroid-2,asteroid,Asteroid,2300.0
+arbdoge-ai,aidoge,ArbDoge AI,2301.0
+longcat-5,longcat,LongCat,2302.0
+billion-dollar-cat-runes,bdc,Billy (Bitcoin),2303.0
+orion-protocol,orn,Orion,2304.0
+extra-finance,extra,Extra Finance,2305.0
+xswap-2,xswap,XSwap,2306.0
+tarot-2,tarot,Tarot,2307.0
+kinka,xnk,Kinka,2145.0
+meth-protocol,cook,mETH Protocol,2308.0
+sogni-ai,sogni,Sogni AI,2309.0
+onbuff,lwa,LumiWave,2115.0
+soex,soex,SOEX,2310.0
+phoenixcoin,pxc,Phoenixcoin,2230.0
+spark-5,spark,SPARK,2311.0
+numbers-protocol,num,Numbers Protocol,2312.0
+hyperbeat-ultra-hype,hbhype,Hyperbeat Ultra HYPE,2314.0
+metacade,mcade,Metacade,2317.0
+full-moon,fm,Full Moon,2315.0
+lotos,lts,Lotos,2316.0
+gage,gage,GAGE,2318.0
+nya,nya,Nya,2319.0
+blackrock-inc-ondo-tokenized-stock,blkon,"Blackrock, Inc. (Ondo Tokenized Stock)",2320.0
+ceylon,rs,Ceylon,2321.0
+defi-janus-henderson-anemoy-s-p500-fund-token,despxa,DeFi S&P 500,2322.0
+nonos-2,nox,NONOS,2323.0
+_,gib,༼ つ ◕_◕ ༽つ,2324.0
+sk-hynix-backpack-securities,skhy,SK Hynix (Backpack Securities),2325.0
+hsuite,hsuite,HubSuite,2326.0
+hoodrat-4,hoodrat,Hoodrat,2327.0
+indigo-dao-governance-token,indy,Indigo Protocol,2328.0
