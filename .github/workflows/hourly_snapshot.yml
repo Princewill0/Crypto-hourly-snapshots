@@ -3,8 +3,6 @@ name: Hourly Crypto Snapshot
 # Runs automatically at the top of every hour (UTC), and can also be
 # triggered manually from the GitHub "Actions" tab for testing.
 on:
-  schedule:
-    - cron: '0 * * * *'
   workflow_dispatch: {}
   repository_dispatch:
     types: [hourly-trigger]
