@@ -28,7 +28,7 @@ jobs:
         run: pip install requests pandas
 
       - name: Run hourly snapshot
-        run: python hourly_snapshot.py --universe universe.csv --out crypto_hourly_snapshots.csv
+        run: python hourly_snapshot_v3.py --n 2500 --out crypto_hourly_snapshots.csv 
 
       - name: Commit and push updated data
         run: |
